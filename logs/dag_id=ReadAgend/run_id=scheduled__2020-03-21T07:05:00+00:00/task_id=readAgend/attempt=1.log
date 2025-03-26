@@ -1,0 +1,19 @@
+[2025-02-19T09:57:18.813-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-02-19T09:57:18.820-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T07:05:00+00:00 [queued]>
+[2025-02-19T09:57:18.824-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T07:05:00+00:00 [queued]>
+[2025-02-19T09:57:18.824-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-02-19T09:57:18.837-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): readAgend> on 2020-03-21 07:05:00+00:00
+[2025-02-19T09:57:18.840-0300] {standard_task_runner.py:72} INFO - Started process 11126 to run task
+[2025-02-19T09:57:18.842-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ReadAgend', 'readAgend', 'scheduled__2020-03-21T07:05:00+00:00', '--job-id', '8387', '--raw', '--subdir', 'DAGS_FOLDER/DAGFiltroPacientesAgendamento.py', '--cfg-path', '/tmp/tmppfm21ptj']
+[2025-02-19T09:57:18.844-0300] {standard_task_runner.py:105} INFO - Job 8387: Subtask readAgend
+[2025-02-19T09:57:18.874-0300] {task_command.py:467} INFO - Running <TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T07:05:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-02-19T09:57:18.935-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='ReadAgend' AIRFLOW_CTX_TASK_ID='readAgend' AIRFLOW_CTX_EXECUTION_DATE='2020-03-21T07:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-21T07:05:00+00:00'
+[2025-02-19T09:57:18.936-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-02-19T09:57:19.738-0300] {logging_mixin.py:190} WARNING - /home/lucas/airflow/dags/DAGFiltroPacientesAgendamento.py:26 FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+[2025-02-19T09:57:19.757-0300] {logging_mixin.py:190} WARNING - /home/lucas/airflow/dags/DAGFiltroPacientesAgendamento.py:29 FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+[2025-02-19T09:57:19.956-0300] {python.py:240} INFO - Done. Returned value was: None
+[2025-02-19T09:57:19.959-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-02-19T09:57:19.960-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ReadAgend, task_id=readAgend, run_id=scheduled__2020-03-21T07:05:00+00:00, execution_date=20200321T070500, start_date=20250219T125718, end_date=20250219T125719
+[2025-02-19T09:57:20.018-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-02-19T09:57:20.033-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-02-19T09:57:20.033-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

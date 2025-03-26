@@ -1,0 +1,19 @@
+[2025-01-26T22:34:49.446-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-26T22:34:49.455-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2023-01-27T00:00:00+00:00 [queued]>
+[2025-01-26T22:34:49.459-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2023-01-27T00:00:00+00:00 [queued]>
+[2025-01-26T22:34:49.460-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-26T22:34:49.468-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): inject_data_into_es> on 2023-01-27 00:00:00+00:00
+[2025-01-26T22:34:49.472-0300] {standard_task_runner.py:72} INFO - Started process 117613 to run task
+[2025-01-26T22:34:49.474-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'InsertIntoElastic', 'inject_data_into_es', 'scheduled__2023-01-27T00:00:00+00:00', '--job-id', '5868', '--raw', '--subdir', 'DAGS_FOLDER/DAGInjectElastic.py', '--cfg-path', '/tmp/tmpjvtaqcb9']
+[2025-01-26T22:34:49.475-0300] {standard_task_runner.py:105} INFO - Job 5868: Subtask inject_data_into_es
+[2025-01-26T22:34:49.495-0300] {task_command.py:467} INFO - Running <TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2023-01-27T00:00:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-01-26T22:34:49.549-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='InsertIntoElastic' AIRFLOW_CTX_TASK_ID='inject_data_into_es' AIRFLOW_CTX_EXECUTION_DATE='2023-01-27T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-01-27T00:00:00+00:00'
+[2025-01-26T22:34:49.549-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-26T22:34:49.814-0300] {_transport.py:349} INFO - PUT http://localhost:9200/_bulk [status:200 duration:0.064s]
+[2025-01-26T22:34:49.822-0300] {DAGInjectElastic.py:93} ERROR - Error uploading data to Elasticsearch: 500 document(s) failed to index.
+[2025-01-26T22:34:49.826-0300] {python.py:240} INFO - Done. Returned value was: False
+[2025-01-26T22:34:49.837-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-26T22:34:49.837-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=InsertIntoElastic, task_id=inject_data_into_es, run_id=scheduled__2023-01-27T00:00:00+00:00, execution_date=20230127T000000, start_date=20250127T013449, end_date=20250127T013449
+[2025-01-26T22:34:49.886-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-26T22:34:49.902-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-26T22:34:49.903-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

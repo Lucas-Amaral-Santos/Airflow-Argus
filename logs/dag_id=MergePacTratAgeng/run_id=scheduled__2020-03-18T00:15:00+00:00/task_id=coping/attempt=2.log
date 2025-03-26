@@ -1,0 +1,20 @@
+[2025-01-24T11:27:06.914-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-24T11:27:06.920-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: MergePacTratAgeng.coping scheduled__2020-03-18T00:15:00+00:00 [queued]>
+[2025-01-24T11:27:06.925-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: MergePacTratAgeng.coping scheduled__2020-03-18T00:15:00+00:00 [queued]>
+[2025-01-24T11:27:06.925-0300] {taskinstance.py:2866} INFO - Starting attempt 2 of 2
+[2025-01-24T11:27:06.935-0300] {taskinstance.py:2889} INFO - Executing <Task(BashOperator): coping> on 2020-03-18 00:15:00+00:00
+[2025-01-24T11:27:06.941-0300] {standard_task_runner.py:72} INFO - Started process 62184 to run task
+[2025-01-24T11:27:06.943-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'MergePacTratAgeng', 'coping', 'scheduled__2020-03-18T00:15:00+00:00', '--job-id', '2262', '--raw', '--subdir', 'DAGS_FOLDER/DAGAgendXPac.py', '--cfg-path', '/tmp/tmpq9nqxc0w']
+[2025-01-24T11:27:06.944-0300] {standard_task_runner.py:105} INFO - Job 2262: Subtask coping
+[2025-01-24T11:27:06.966-0300] {task_command.py:467} INFO - Running <TaskInstance: MergePacTratAgeng.coping scheduled__2020-03-18T00:15:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-01-24T11:27:07.009-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='MergePacTratAgeng' AIRFLOW_CTX_TASK_ID='coping' AIRFLOW_CTX_EXECUTION_DATE='2020-03-18T00:15:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-18T00:15:00+00:00'
+[2025-01-24T11:27:07.010-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-24T11:27:07.018-0300] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2025-01-24T11:27:07.018-0300] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'cp -f /home/lucas/airflow/PAC_TRAT_AGEND.csv /home/lucas/airflow/PAC_TRAT_FILTER.csv /home/lucas/airflow/input/']
+[2025-01-24T11:27:07.028-0300] {subprocess.py:99} INFO - Output:
+[2025-01-24T11:27:07.029-0300] {subprocess.py:110} INFO - Command exited with return code 0
+[2025-01-24T11:27:07.042-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-24T11:27:07.042-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=MergePacTratAgeng, task_id=coping, run_id=scheduled__2020-03-18T00:15:00+00:00, execution_date=20200318T001500, start_date=20250124T142706, end_date=20250124T142707
+[2025-01-24T11:27:07.075-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-24T11:27:07.088-0300] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-01-24T11:27:07.093-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

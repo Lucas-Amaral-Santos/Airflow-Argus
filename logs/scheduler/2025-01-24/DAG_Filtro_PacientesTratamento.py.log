@@ -1,0 +1,15 @@
+[2025-01-24T08:58:43.659-0300] {processor.py:186} INFO - Started process (PID=12027) to work on /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py
+[2025-01-24T08:58:43.660-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py for tasks to queue
+[2025-01-24T08:58:43.661-0300] {logging_mixin.py:190} INFO - [2025-01-24T08:58:43.661-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py
+[2025-01-24T08:58:43.674-0300] {logging_mixin.py:190} INFO - [2025-01-24T08:58:43.670-0300] {dagbag.py:387} ERROR - Failed to import: /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py
+Traceback (most recent call last):
+  File "/home/lucas/airflow_env/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py", line 25, in <module>
+    CSVJson = PythonOperator(task_id='convertCSVtoJson', python_callable=CSVToJson)
+                                                                         ^^^^^^^^^
+NameError: name 'CSVToJson' is not defined
+[2025-01-24T08:58:43.675-0300] {processor.py:927} WARNING - No viable dags retrieved from /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py
+[2025-01-24T08:58:43.686-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAG_Filtro_PacientesTratamento.py took 0.030 seconds

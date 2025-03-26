@@ -1,0 +1,1183 @@
+[2025-01-27T21:00:14.720-0300] {processor.py:186} INFO - Started process (PID=41273) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:14.721-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:00:14.721-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:14.721-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:15.075-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:15.085-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:15.085-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:00:15.094-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:15.094-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:00:15.105-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.389 seconds
+[2025-01-27T21:00:56.633-0300] {processor.py:186} INFO - Started process (PID=41597) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:56.635-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:00:56.636-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:56.635-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:57.091-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:00:57.102-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:57.102-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:00:57.112-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:00:57.112-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:00:57.134-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.507 seconds
+[2025-01-27T21:01:34.927-0300] {processor.py:186} INFO - Started process (PID=41808) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:01:34.928-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:01:34.929-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:01:34.928-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:01:35.289-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:01:35.312-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:01:35.312-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:01:35.322-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:01:35.322-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:01:35.334-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.413 seconds
+[2025-01-27T21:02:06.444-0300] {processor.py:186} INFO - Started process (PID=42124) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:02:06.452-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:02:06.454-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:02:06.453-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:02:06.781-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:02:06.791-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:02:06.791-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:02:06.801-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:02:06.801-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:02:06.812-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.377 seconds
+[2025-01-27T21:03:00.916-0300] {processor.py:186} INFO - Started process (PID=42465) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:00.917-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:03:00.919-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:00.918-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:01.734-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:01.752-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:01.752-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:03:01.765-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:01.765-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:03:01.783-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.874 seconds
+[2025-01-27T21:03:33.692-0300] {processor.py:186} INFO - Started process (PID=42719) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:33.693-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:03:33.694-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:33.693-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:34.394-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:03:34.417-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:34.416-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:03:34.435-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:03:34.434-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:03:34.460-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.777 seconds
+[2025-01-27T21:04:08.848-0300] {processor.py:186} INFO - Started process (PID=43069) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:08.849-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:04:08.851-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:08.850-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:09.847-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:09.874-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:09.873-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:04:09.892-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:09.892-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:04:09.919-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 1.088 seconds
+[2025-01-27T21:04:39.998-0300] {processor.py:186} INFO - Started process (PID=43280) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:39.999-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:04:40.001-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:40.000-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:40.390-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:04:40.400-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:40.400-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:04:40.411-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:04:40.410-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:04:40.430-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.436 seconds
+[2025-01-27T21:05:11.246-0300] {processor.py:186} INFO - Started process (PID=43441) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:11.246-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:05:11.247-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:11.247-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:11.674-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:11.686-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:11.686-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:05:11.697-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:11.697-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:05:11.718-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.476 seconds
+[2025-01-27T21:05:42.211-0300] {processor.py:186} INFO - Started process (PID=43648) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:42.211-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:05:42.213-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:42.212-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:42.566-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:05:42.587-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:42.587-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:05:42.598-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:05:42.598-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:05:42.609-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.405 seconds
+[2025-01-27T21:06:12.861-0300] {processor.py:186} INFO - Started process (PID=43805) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:12.873-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:06:12.874-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:12.874-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:13.232-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:13.247-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:13.247-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:06:13.255-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:13.255-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:06:13.271-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.420 seconds
+[2025-01-27T21:06:43.629-0300] {processor.py:186} INFO - Started process (PID=43961) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:43.630-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:06:43.631-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:43.631-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:43.986-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:06:43.999-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:43.998-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:06:44.009-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:06:44.009-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:06:44.031-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.410 seconds
+[2025-01-27T21:07:14.363-0300] {processor.py:186} INFO - Started process (PID=44127) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:14.374-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:07:14.376-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:14.375-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:14.781-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:14.801-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:14.801-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:07:14.817-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:14.817-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:07:14.833-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.476 seconds
+[2025-01-27T21:07:45.060-0300] {processor.py:186} INFO - Started process (PID=44286) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:45.061-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:07:45.062-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:45.062-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:45.425-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:07:45.436-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:45.435-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:07:45.444-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:07:45.444-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:07:45.465-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.413 seconds
+[2025-01-27T21:11:02.237-0300] {processor.py:186} INFO - Started process (PID=45323) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:02.239-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:11:02.240-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:02.240-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:02.573-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:02.590-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:02.590-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:11:02.601-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:02.601-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:11:02.651-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.422 seconds
+[2025-01-27T21:11:35.528-0300] {processor.py:186} INFO - Started process (PID=45505) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:35.530-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:11:35.531-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:35.531-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:35.972-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:11:35.992-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:35.991-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:11:36.007-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:11:36.007-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:11:36.027-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.508 seconds
+[2025-01-27T21:12:09.720-0300] {processor.py:186} INFO - Started process (PID=45751) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:09.724-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:12:09.726-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:09.725-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:10.103-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:10.116-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:10.116-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:12:10.147-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:10.146-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:12:10.168-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.452 seconds
+[2025-01-27T21:12:46.996-0300] {processor.py:186} INFO - Started process (PID=46088) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:46.997-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:12:46.998-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:46.998-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:47.605-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:12:47.624-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:47.623-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:12:47.644-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:12:47.643-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:12:47.670-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.678 seconds
+[2025-01-27T21:13:18.646-0300] {processor.py:186} INFO - Started process (PID=46247) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:18.648-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:13:18.649-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:18.649-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:18.993-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:19.005-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:19.005-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:13:19.014-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:19.014-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:13:19.025-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.388 seconds
+[2025-01-27T21:13:49.646-0300] {processor.py:186} INFO - Started process (PID=46460) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:49.648-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:13:49.649-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:49.649-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:49.977-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:13:49.988-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:49.987-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:13:49.997-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:13:49.997-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:13:50.008-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.371 seconds
+[2025-01-27T21:14:20.402-0300] {processor.py:186} INFO - Started process (PID=46687) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:20.403-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:14:20.405-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:20.405-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:20.751-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:20.761-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:20.760-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:14:20.769-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:20.769-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:14:20.780-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.398 seconds
+[2025-01-27T21:14:50.993-0300] {processor.py:186} INFO - Started process (PID=46841) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:50.994-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:14:50.995-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:50.995-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:51.300-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:14:51.316-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:51.316-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:14:51.328-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:14:51.328-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:14:51.350-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.362 seconds
+[2025-01-27T21:15:21.868-0300] {processor.py:186} INFO - Started process (PID=47053) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:21.869-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:15:21.870-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:21.870-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:22.195-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:22.207-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:22.206-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:15:22.219-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:22.219-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:15:22.233-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.374 seconds
+[2025-01-27T21:15:52.799-0300] {processor.py:186} INFO - Started process (PID=47215) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:52.811-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:15:52.813-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:52.812-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:53.121-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:15:53.130-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:53.130-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:15:53.138-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:15:53.138-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:15:53.159-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.370 seconds
+[2025-01-27T21:16:24.276-0300] {processor.py:186} INFO - Started process (PID=47375) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:16:24.277-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:16:24.278-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:16:24.278-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:16:24.591-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:16:24.600-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:16:24.600-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:16:24.608-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:16:24.608-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:16:24.621-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.354 seconds
+[2025-01-27T21:17:21.526-0300] {processor.py:186} INFO - Started process (PID=47712) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:17:21.528-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:17:21.529-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:17:21.528-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:17:21.868-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:17:21.881-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:17:21.881-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:17:21.892-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:17:21.892-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:17:21.903-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.383 seconds
+[2025-01-27T21:19:40.526-0300] {processor.py:186} INFO - Started process (PID=48430) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:19:40.529-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:19:40.530-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:19:40.530-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:19:40.869-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:19:40.878-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:19:40.878-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:19:40.888-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:19:40.888-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:19:40.908-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.387 seconds
+[2025-01-27T21:20:19.438-0300] {processor.py:186} INFO - Started process (PID=48670) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:19.439-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:20:19.441-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:19.440-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:19.897-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:19.906-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:19.906-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:20:19.914-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:19.914-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:20:19.935-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.506 seconds
+[2025-01-27T21:20:52.428-0300] {processor.py:186} INFO - Started process (PID=48877) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:52.429-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:20:52.430-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:52.430-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:52.742-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:20:52.752-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:52.752-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:20:52.762-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:20:52.762-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:20:52.783-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.359 seconds
+[2025-01-27T21:21:24.434-0300] {processor.py:186} INFO - Started process (PID=49170) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:24.434-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:21:24.435-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:24.435-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:24.745-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:24.755-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:24.755-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:21:24.763-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:24.763-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:21:24.783-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.353 seconds
+[2025-01-27T21:21:55.765-0300] {processor.py:186} INFO - Started process (PID=49394) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:55.766-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:21:55.767-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:55.767-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:56.160-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:21:56.180-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:56.180-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:21:56.195-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:21:56.195-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:21:56.209-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.453 seconds
+[2025-01-27T21:22:27.212-0300] {processor.py:186} INFO - Started process (PID=49675) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:27.213-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:22:27.214-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:27.214-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:27.697-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:27.711-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:27.711-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:22:27.722-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:27.722-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:22:27.737-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.532 seconds
+[2025-01-27T21:22:57.986-0300] {processor.py:186} INFO - Started process (PID=49835) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:57.986-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:22:57.988-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:57.987-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:58.366-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:22:58.381-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:58.380-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:22:58.404-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:22:58.403-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:22:58.422-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.442 seconds
+[2025-01-27T21:23:28.857-0300] {processor.py:186} INFO - Started process (PID=50010) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:28.858-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:23:28.859-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:28.859-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:29.389-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:29.410-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:29.409-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:23:29.426-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:29.426-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:23:29.442-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.596 seconds
+[2025-01-27T21:23:59.584-0300] {processor.py:186} INFO - Started process (PID=50096) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:59.585-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:23:59.586-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:59.586-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:59.882-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:23:59.906-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:59.906-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:23:59.916-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:23:59.916-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:23:59.928-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.348 seconds
+[2025-01-27T21:24:30.439-0300] {processor.py:186} INFO - Started process (PID=50347) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:24:30.439-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:24:30.441-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:24:30.440-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:24:30.679-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:24:30.692-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:24:30.691-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:24:30.706-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:24:30.706-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:24:30.719-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.286 seconds
+[2025-01-27T21:25:00.852-0300] {processor.py:186} INFO - Started process (PID=50498) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:00.853-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:25:00.854-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:00.854-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:01.271-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:01.288-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:01.288-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:25:01.304-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:01.304-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:25:01.323-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.478 seconds
+[2025-01-27T21:25:31.882-0300] {processor.py:186} INFO - Started process (PID=50624) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:31.883-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:25:31.885-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:31.884-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:32.141-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:25:32.156-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:32.155-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:25:32.168-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:25:32.168-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:25:32.180-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.308 seconds
+[2025-01-27T21:26:02.450-0300] {processor.py:186} INFO - Started process (PID=50765) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:02.452-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:26:02.453-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:02.452-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:02.690-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:02.702-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:02.702-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:26:02.713-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:02.713-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:26:02.724-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.284 seconds
+[2025-01-27T21:26:33.180-0300] {processor.py:186} INFO - Started process (PID=50850) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:33.181-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:26:33.182-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:33.181-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:33.408-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:26:33.422-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:33.422-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:26:33.433-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:26:33.433-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:26:33.445-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.276 seconds
+[2025-01-27T21:27:03.650-0300] {processor.py:186} INFO - Started process (PID=50993) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:03.651-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:27:03.652-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:03.651-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:03.922-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:03.935-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:03.935-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:27:03.947-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:03.947-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:27:03.959-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.319 seconds
+[2025-01-27T21:27:34.452-0300] {processor.py:186} INFO - Started process (PID=51088) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:34.453-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:27:34.454-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:34.454-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:34.690-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:27:34.704-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:34.704-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:27:34.718-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:27:34.718-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:27:34.732-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.289 seconds
+[2025-01-27T21:28:04.965-0300] {processor.py:186} INFO - Started process (PID=51185) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:04.966-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:28:04.967-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:04.967-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:05.219-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:05.241-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:05.240-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:28:05.252-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:05.252-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:28:05.264-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.305 seconds
+[2025-01-27T21:28:35.949-0300] {processor.py:186} INFO - Started process (PID=51319) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:35.950-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:28:35.951-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:35.951-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:36.193-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:28:36.206-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:36.205-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:28:36.217-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:28:36.217-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:28:36.228-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.289 seconds
+[2025-01-27T21:29:06.678-0300] {processor.py:186} INFO - Started process (PID=51410) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:06.678-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:29:06.679-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:06.679-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:07.035-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:07.049-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:07.049-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:29:07.060-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:07.060-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:29:07.071-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.399 seconds
+[2025-01-27T21:29:37.266-0300] {processor.py:186} INFO - Started process (PID=51516) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:37.277-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:29:37.279-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:37.279-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:37.510-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:29:37.521-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:37.521-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:29:37.543-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:29:37.543-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:29:37.554-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.299 seconds
+[2025-01-27T21:30:07.951-0300] {processor.py:186} INFO - Started process (PID=51604) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:07.951-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:30:07.952-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:07.952-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:08.192-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:08.204-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:08.204-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:30:08.215-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:08.215-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:30:08.226-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.284 seconds
+[2025-01-27T21:30:38.652-0300] {processor.py:186} INFO - Started process (PID=51692) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:38.653-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:30:38.654-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:38.654-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:38.891-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:30:38.904-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:38.904-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:30:38.916-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:30:38.916-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:30:38.929-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.286 seconds
+[2025-01-27T21:31:09.494-0300] {processor.py:186} INFO - Started process (PID=51834) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:31:09.505-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:31:09.507-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:31:09.507-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:31:09.849-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:31:09.871-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:31:09.871-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:31:09.882-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:31:09.882-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:31:09.893-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.405 seconds
+[2025-01-27T21:34:02.111-0300] {processor.py:186} INFO - Started process (PID=52907) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:02.112-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:34:02.114-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:02.113-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:02.482-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:02.494-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:02.494-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:34:02.509-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:02.509-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:34:02.534-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.428 seconds
+[2025-01-27T21:34:33.164-0300] {processor.py:186} INFO - Started process (PID=53136) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:33.165-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:34:33.166-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:33.166-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:33.562-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:34:33.591-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:33.591-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:34:33.613-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:34:33.612-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:34:33.635-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.476 seconds
+[2025-01-27T21:35:04.079-0300] {processor.py:186} INFO - Started process (PID=53311) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:04.080-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:35:04.081-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:04.081-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:04.311-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:04.323-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:04.323-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:35:04.334-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:04.334-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:35:04.353-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.278 seconds
+[2025-01-27T21:35:51.815-0300] {processor.py:186} INFO - Started process (PID=53582) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:51.817-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:35:51.819-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:51.818-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:52.057-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:35:52.069-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:52.069-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:35:52.081-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:35:52.081-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:35:52.098-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.292 seconds
+[2025-01-27T21:36:31.879-0300] {processor.py:186} INFO - Started process (PID=53820) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:36:31.880-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:36:31.881-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:36:31.881-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:36:32.120-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:36:32.132-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:36:32.132-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:36:32.157-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:36:32.156-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:36:32.175-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.301 seconds
+[2025-01-27T21:37:09.964-0300] {processor.py:186} INFO - Started process (PID=54059) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:09.973-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:37:09.975-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:09.974-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:10.236-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:10.248-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:10.248-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:37:10.260-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:10.260-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:37:10.272-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.317 seconds
+[2025-01-27T21:37:48.528-0300] {processor.py:186} INFO - Started process (PID=54347) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:48.529-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:37:48.530-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:48.530-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:48.755-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:37:48.768-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:48.768-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:37:48.781-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:37:48.781-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:37:48.804-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.284 seconds
+[2025-01-27T21:38:29.240-0300] {processor.py:186} INFO - Started process (PID=54580) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:38:29.241-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:38:29.242-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:38:29.242-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:38:29.478-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:38:29.491-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:38:29.490-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:38:29.504-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:38:29.504-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:38:29.525-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.293 seconds
+[2025-01-27T21:39:02.930-0300] {processor.py:186} INFO - Started process (PID=54857) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:02.931-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:39:02.932-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:02.931-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:03.235-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:03.251-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:03.250-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:39:03.265-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:03.265-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:39:03.283-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.360 seconds
+[2025-01-27T21:39:36.564-0300] {processor.py:186} INFO - Started process (PID=55170) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:36.566-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:39:36.567-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:36.567-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:36.801-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:39:36.812-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:36.812-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:39:36.825-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:39:36.825-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:39:36.847-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.292 seconds
+[2025-01-27T21:40:07.055-0300] {processor.py:186} INFO - Started process (PID=55341) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:07.055-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:40:07.056-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:07.056-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:07.351-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:07.364-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:07.364-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:40:07.375-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:07.375-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:40:07.393-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.343 seconds
+[2025-01-27T21:40:37.615-0300] {processor.py:186} INFO - Started process (PID=55520) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:37.617-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:40:37.618-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:37.618-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:37.850-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:40:37.861-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:37.861-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:40:37.870-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:40:37.870-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:40:37.897-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.291 seconds
+[2025-01-27T21:41:09.538-0300] {processor.py:186} INFO - Started process (PID=55816) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:09.539-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:41:09.540-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:09.540-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:10.024-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:10.044-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:10.044-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:41:10.061-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:10.061-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:41:10.081-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.548 seconds
+[2025-01-27T21:41:40.402-0300] {processor.py:186} INFO - Started process (PID=55974) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:40.403-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:41:40.404-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:40.404-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:40.637-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:41:40.659-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:40.659-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:41:40.669-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:41:40.669-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:41:40.681-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.283 seconds
+[2025-01-27T21:42:10.948-0300] {processor.py:186} INFO - Started process (PID=56191) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:10.949-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:42:10.950-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:10.950-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:11.181-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:11.193-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:11.193-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:42:11.203-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:11.203-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:42:11.225-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.285 seconds
+[2025-01-27T21:42:41.468-0300] {processor.py:186} INFO - Started process (PID=56292) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:41.479-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:42:41.481-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:41.481-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:41.709-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:42:41.720-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:41.720-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:42:41.729-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:42:41.729-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:42:41.741-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.281 seconds
+[2025-01-27T21:43:11.995-0300] {processor.py:186} INFO - Started process (PID=56451) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:11.995-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:43:11.996-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:11.996-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:12.228-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:12.239-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:12.239-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:43:12.250-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:12.249-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:43:12.262-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.272 seconds
+[2025-01-27T21:43:42.622-0300] {processor.py:186} INFO - Started process (PID=56554) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:42.623-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:43:42.624-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:42.623-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:42.945-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:43:42.961-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:42.960-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:43:42.977-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:43:42.977-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:43:42.990-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.374 seconds
+[2025-01-27T21:47:06.059-0300] {processor.py:186} INFO - Started process (PID=57326) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:06.060-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:47:06.061-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:06.061-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:06.347-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:06.363-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:06.363-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:47:06.378-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:06.378-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:47:06.496-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.443 seconds
+[2025-01-27T21:47:44.965-0300] {processor.py:186} INFO - Started process (PID=57469) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:44.966-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:47:44.967-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:44.966-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:45.308-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:47:45.326-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:45.326-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:47:45.448-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:47:45.448-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:47:45.469-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.509 seconds
+[2025-01-27T21:49:27.987-0300] {processor.py:186} INFO - Started process (PID=57939) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:27.988-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:49:27.989-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:27.989-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:28.336-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:28.346-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:28.346-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:49:28.356-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:28.356-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:49:28.368-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.387 seconds
+[2025-01-27T21:49:58.809-0300] {processor.py:186} INFO - Started process (PID=58137) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:58.810-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-27T21:49:58.812-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:58.812-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:59.158-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-27T21:49:59.167-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:59.167-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T21:49:59.177-0300] {logging_mixin.py:190} INFO - [2025-01-27T21:49:59.177-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-27T21:49:59.196-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.390 seconds
+[2025-01-28T09:31:24.627-0300] {processor.py:186} INFO - Started process (PID=72100) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:24.628-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:31:24.630-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:24.630-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:24.958-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:24.968-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:24.967-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:31:24.992-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:24.992-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:31:25.018-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.399 seconds
+[2025-01-28T09:31:55.777-0300] {processor.py:186} INFO - Started process (PID=72186) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:55.777-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:31:55.779-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:55.778-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:56.100-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:31:56.109-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:56.109-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:31:56.119-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:31:56.119-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:31:56.132-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.360 seconds
+[2025-01-28T09:32:26.462-0300] {processor.py:186} INFO - Started process (PID=72313) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:26.464-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:32:26.467-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:26.466-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:26.756-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:26.765-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:26.765-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:32:26.775-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:26.775-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:32:26.787-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.331 seconds
+[2025-01-28T09:32:42.816-0300] {processor.py:186} INFO - Started process (PID=72386) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:42.817-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:32:42.818-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:42.818-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:43.177-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:32:43.190-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:43.190-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:32:43.202-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:32:43.202-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:32:43.227-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.418 seconds
+[2025-01-28T09:44:40.532-0300] {processor.py:186} INFO - Started process (PID=73894) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:44:40.534-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:44:40.536-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:44:40.535-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:44:40.879-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:44:40.891-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:44:40.890-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:44:40.907-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:44:40.907-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:44:40.922-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.394 seconds
+[2025-01-28T09:52:00.890-0300] {processor.py:186} INFO - Started process (PID=74867) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:52:00.892-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T09:52:00.893-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:52:00.892-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:52:01.140-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T09:52:01.155-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:52:01.155-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T09:52:01.166-0300] {logging_mixin.py:190} INFO - [2025-01-28T09:52:01.166-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T09:52:01.179-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.295 seconds
+[2025-01-28T10:00:28.557-0300] {processor.py:186} INFO - Started process (PID=76078) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:28.564-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:00:28.566-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:28.565-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:28.822-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:28.833-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:28.832-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:00:28.847-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:28.847-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:00:28.865-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.317 seconds
+[2025-01-28T10:00:59.614-0300] {processor.py:186} INFO - Started process (PID=76555) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:59.615-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:00:59.617-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:59.616-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:59.877-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:00:59.891-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:59.891-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:00:59.903-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:00:59.903-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:01:00.269-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.664 seconds
+[2025-01-28T10:01:33.038-0300] {processor.py:186} INFO - Started process (PID=76783) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:01:33.039-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:01:33.040-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:01:33.039-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:01:33.394-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:01:33.411-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:01:33.411-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:01:33.426-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:01:33.425-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:01:33.443-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.411 seconds
+[2025-01-28T10:02:05.681-0300] {processor.py:186} INFO - Started process (PID=76968) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:05.682-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:02:05.684-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:05.683-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:05.947-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:05.962-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:05.962-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:02:06.071-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:06.071-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:02:06.084-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.406 seconds
+[2025-01-28T10:02:37.008-0300] {processor.py:186} INFO - Started process (PID=77085) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:37.009-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:02:37.010-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:37.009-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:37.314-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:02:37.331-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:37.331-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:02:37.346-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:02:37.346-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:02:37.371-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.369 seconds
+[2025-01-28T10:03:08.224-0300] {processor.py:186} INFO - Started process (PID=77171) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:08.225-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:03:08.226-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:08.226-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:08.522-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:08.534-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:08.534-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:03:08.547-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:08.546-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:03:08.566-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.348 seconds
+[2025-01-28T10:03:39.245-0300] {processor.py:186} INFO - Started process (PID=77254) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:39.247-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:03:39.248-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:39.247-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:39.572-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:03:39.585-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:39.585-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:03:39.595-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:03:39.595-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:03:39.618-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.377 seconds
+[2025-01-28T10:04:10.194-0300] {processor.py:186} INFO - Started process (PID=77391) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:10.195-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:04:10.196-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:10.196-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:10.448-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:10.462-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:10.462-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:04:10.578-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:10.577-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:04:10.590-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.404 seconds
+[2025-01-28T10:04:41.655-0300] {processor.py:186} INFO - Started process (PID=77478) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:41.666-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:04:41.667-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:41.667-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:41.937-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:04:42.051-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:42.051-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:04:42.059-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:04:42.059-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:04:42.072-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.421 seconds
+[2025-01-28T10:05:12.446-0300] {processor.py:186} INFO - Started process (PID=77568) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:12.446-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:05:12.447-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:12.447-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:12.695-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:12.707-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:12.707-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:05:12.717-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:12.716-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:05:12.740-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.299 seconds
+[2025-01-28T10:05:42.971-0300] {processor.py:186} INFO - Started process (PID=77652) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:42.982-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:05:42.983-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:42.983-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:43.240-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:05:43.253-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:43.253-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:05:43.265-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:05:43.265-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:05:43.379-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.413 seconds
+[2025-01-28T10:06:13.666-0300] {processor.py:186} INFO - Started process (PID=77736) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:13.667-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:06:13.668-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:13.668-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:13.923-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:13.936-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:13.936-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:06:14.042-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:14.042-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:06:14.065-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.407 seconds
+[2025-01-28T10:06:46.913-0300] {processor.py:186} INFO - Started process (PID=77901) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:46.914-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:06:46.914-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:46.914-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:47.175-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:06:47.284-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:47.284-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:06:47.313-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:06:47.313-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:06:47.328-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.418 seconds
+[2025-01-28T10:07:19.722-0300] {processor.py:186} INFO - Started process (PID=78105) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:19.723-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:07:19.724-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:19.724-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:19.959-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:19.984-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:19.983-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:07:19.999-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:19.999-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:07:20.020-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.301 seconds
+[2025-01-28T10:07:51.336-0300] {processor.py:186} INFO - Started process (PID=78296) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:51.337-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:07:51.338-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:51.338-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:51.575-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:07:51.597-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:51.597-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:07:51.608-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:07:51.608-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:07:51.711-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.382 seconds
+[2025-01-28T10:08:22.752-0300] {processor.py:186} INFO - Started process (PID=78444) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:22.753-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:08:22.754-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:22.754-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:23.014-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:23.027-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:23.026-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:08:23.137-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:23.136-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:08:23.159-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.415 seconds
+[2025-01-28T10:08:53.436-0300] {processor.py:186} INFO - Started process (PID=78526) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:53.447-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:08:53.449-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:53.449-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:53.686-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:08:53.799-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:53.799-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:08:53.808-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:08:53.808-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:08:53.829-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.402 seconds
+[2025-01-28T10:09:24.276-0300] {processor.py:186} INFO - Started process (PID=78609) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:24.280-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:09:24.280-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:24.280-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:24.608-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:24.618-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:24.618-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:09:24.626-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:24.626-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:09:24.640-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.370 seconds
+[2025-01-28T10:09:55.247-0300] {processor.py:186} INFO - Started process (PID=78724) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:55.258-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:09:55.260-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:55.259-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:55.624-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:09:55.635-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:55.635-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:09:55.653-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:09:55.653-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:09:55.666-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.428 seconds
+[2025-01-28T10:10:26.100-0300] {processor.py:186} INFO - Started process (PID=78837) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:26.100-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:10:26.101-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:26.101-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:26.339-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:26.351-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:26.351-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:10:26.454-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:26.454-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:10:26.467-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.371 seconds
+[2025-01-28T10:10:57.043-0300] {processor.py:186} INFO - Started process (PID=78925) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:57.044-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:10:57.046-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:57.045-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:57.298-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:10:57.401-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:57.401-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:10:57.410-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:10:57.409-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:10:57.432-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.396 seconds
+[2025-01-28T10:11:28.071-0300] {processor.py:186} INFO - Started process (PID=79030) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:28.076-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:11:28.077-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:28.077-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:28.408-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:28.423-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:28.423-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:11:28.434-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:28.434-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:11:28.448-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.382 seconds
+[2025-01-28T10:11:59.035-0300] {processor.py:186} INFO - Started process (PID=79124) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:59.036-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:11:59.037-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:59.036-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:59.409-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:11:59.425-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:59.425-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:11:59.439-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:11:59.439-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:11:59.455-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.429 seconds
+[2025-01-28T10:12:31.490-0300] {processor.py:186} INFO - Started process (PID=79274) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:12:31.496-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:12:31.496-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:12:31.496-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:12:31.734-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:12:31.761-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:12:31.761-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:12:31.885-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:12:31.885-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:12:31.899-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.413 seconds
+[2025-01-28T10:13:04.160-0300] {processor.py:186} INFO - Started process (PID=79478) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:04.160-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:13:04.161-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:04.161-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:04.443-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:04.556-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:04.556-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:13:04.567-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:04.566-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:13:04.582-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.427 seconds
+[2025-01-28T10:13:35.298-0300] {processor.py:186} INFO - Started process (PID=79674) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:35.299-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:13:35.300-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:35.299-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:35.627-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:13:35.636-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:35.636-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:13:35.656-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:13:35.656-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:13:35.666-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.376 seconds
+[2025-01-28T10:14:06.094-0300] {processor.py:186} INFO - Started process (PID=79835) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:06.096-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:14:06.097-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:06.096-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:06.425-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:06.435-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:06.435-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:14:06.454-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:06.454-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:14:06.471-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.384 seconds
+[2025-01-28T10:14:36.775-0300] {processor.py:186} INFO - Started process (PID=79945) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:36.786-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:14:36.787-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:36.787-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:37.118-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:14:37.127-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:37.127-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:14:37.137-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:14:37.137-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:14:37.150-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.382 seconds
+[2025-01-28T10:15:07.419-0300] {processor.py:186} INFO - Started process (PID=80093) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:07.421-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:15:07.422-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:07.422-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:07.728-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:07.825-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:07.825-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:15:07.835-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:07.835-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:15:07.846-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.439 seconds
+[2025-01-28T10:15:38.039-0300] {processor.py:186} INFO - Started process (PID=80182) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:38.050-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:15:38.051-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:38.051-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:38.384-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:15:38.405-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:38.405-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:15:38.413-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:15:38.413-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:15:38.426-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.392 seconds
+[2025-01-28T10:16:08.562-0300] {processor.py:186} INFO - Started process (PID=80268) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:08.572-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:16:08.574-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:08.573-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:08.922-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:08.931-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:08.930-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:16:08.941-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:08.941-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:16:08.962-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.407 seconds
+[2025-01-28T10:16:39.169-0300] {processor.py:186} INFO - Started process (PID=80353) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:39.170-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:16:39.171-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:39.171-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:39.591-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:16:39.607-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:39.607-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:16:39.618-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:16:39.617-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:16:39.631-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.470 seconds
+[2025-01-28T10:17:09.935-0300] {processor.py:186} INFO - Started process (PID=80452) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:09.946-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:17:09.948-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:09.947-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:10.342-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:10.352-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:10.352-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:17:10.361-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:10.361-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:17:10.382-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.452 seconds
+[2025-01-28T10:17:40.646-0300] {processor.py:186} INFO - Started process (PID=80586) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:40.648-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:17:40.650-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:40.649-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:41.003-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:17:41.025-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:41.025-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:17:41.037-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:17:41.037-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:17:41.050-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.412 seconds
+[2025-01-28T10:18:11.408-0300] {processor.py:186} INFO - Started process (PID=80692) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:11.419-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:18:11.420-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:11.420-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:11.777-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:11.788-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:11.788-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:18:11.807-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:11.807-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:18:11.822-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.419 seconds
+[2025-01-28T10:18:49.326-0300] {processor.py:186} INFO - Started process (PID=80961) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:49.327-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:18:49.328-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:49.328-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:49.771-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:18:49.809-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:49.809-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:18:49.834-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:18:49.834-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:18:49.848-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.527 seconds
+[2025-01-28T10:19:20.016-0300] {processor.py:186} INFO - Started process (PID=81199) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:20.017-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:19:20.018-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:20.018-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:20.327-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:20.337-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:20.337-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:19:20.346-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:20.346-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:19:20.357-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.350 seconds
+[2025-01-28T10:19:51.326-0300] {processor.py:186} INFO - Started process (PID=81339) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:51.327-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:19:51.328-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:51.327-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:51.640-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:19:51.659-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:51.659-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:19:51.668-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:19:51.668-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:19:51.680-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.362 seconds
+[2025-01-28T10:20:39.057-0300] {processor.py:186} INFO - Started process (PID=81549) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:20:39.058-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:20:39.058-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:20:39.058-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:20:39.487-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:20:39.498-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:20:39.498-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:20:39.507-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:20:39.507-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:20:39.521-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.469 seconds
+[2025-01-28T10:21:15.787-0300] {processor.py:186} INFO - Started process (PID=81729) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:15.789-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:21:15.790-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:15.789-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:16.251-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:16.267-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:16.267-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:21:16.281-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:16.281-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:21:16.296-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.514 seconds
+[2025-01-28T10:21:50.762-0300] {processor.py:186} INFO - Started process (PID=81866) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:50.763-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:21:50.764-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:50.764-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:51.188-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:21:51.203-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:51.202-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:21:51.215-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:21:51.215-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:21:51.231-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.476 seconds
+[2025-01-28T10:22:21.893-0300] {processor.py:186} INFO - Started process (PID=81987) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:22:21.894-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:22:21.894-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:22:21.894-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:22:22.395-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:22:22.412-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:22:22.412-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:22:22.425-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:22:22.425-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:22:22.439-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.554 seconds
+[2025-01-28T10:23:14.351-0300] {processor.py:186} INFO - Started process (PID=82170) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:14.352-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:23:14.354-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:14.353-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:14.720-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:14.732-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:14.732-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:23:14.745-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:14.745-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:23:14.771-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.426 seconds
+[2025-01-28T10:23:54.646-0300] {processor.py:186} INFO - Started process (PID=82370) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:54.647-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:23:54.648-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:54.648-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:55.234-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:23:55.253-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:55.253-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:23:55.268-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:23:55.267-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:23:55.283-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.646 seconds
+[2025-01-28T10:24:28.316-0300] {processor.py:186} INFO - Started process (PID=82501) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:24:28.317-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:24:28.318-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:24:28.318-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:24:28.739-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:24:28.772-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:24:28.771-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:24:28.784-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:24:28.784-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:24:28.797-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.486 seconds
+[2025-01-28T10:25:03.934-0300] {processor.py:186} INFO - Started process (PID=82661) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:03.935-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:25:03.936-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:03.935-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:04.513-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:04.535-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:04.535-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:25:04.555-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:04.554-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:25:04.579-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.653 seconds
+[2025-01-28T10:25:36.318-0300] {processor.py:186} INFO - Started process (PID=82793) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:36.319-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:25:36.320-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:36.319-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:36.975-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:25:37.015-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:37.015-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:25:37.028-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:25:37.028-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:25:37.099-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.787 seconds
+[2025-01-28T10:26:13.000-0300] {processor.py:186} INFO - Started process (PID=82942) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:13.001-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:26:13.002-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:13.001-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:13.595-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:13.611-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:13.611-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:26:13.623-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:13.623-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:26:13.639-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.653 seconds
+[2025-01-28T10:26:47.253-0300] {processor.py:186} INFO - Started process (PID=83070) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:47.254-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:26:47.255-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:47.255-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:47.705-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:26:47.721-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:47.721-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:26:47.732-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:26:47.732-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:26:47.751-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.506 seconds
+[2025-01-28T10:27:20.530-0300] {processor.py:186} INFO - Started process (PID=83210) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:27:20.531-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:27:20.532-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:27:20.532-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:27:21.074-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:27:21.093-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:27:21.093-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:27:21.110-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:27:21.109-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:27:21.128-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.610 seconds
+[2025-01-28T10:27:59.871-0300] {processor.py:186} INFO - Started process (PID=83348) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:27:59.872-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:27:59.874-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:27:59.874-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:28:00.617-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:28:00.683-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:28:00.682-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:28:00.714-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:28:00.713-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:28:00.738-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.883 seconds
+[2025-01-28T10:28:33.223-0300] {processor.py:186} INFO - Started process (PID=83499) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:28:33.224-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:28:33.225-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:28:33.224-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:28:33.790-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:28:33.805-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:28:33.805-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:28:33.816-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:28:33.816-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:28:33.829-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.614 seconds
+[2025-01-28T10:29:20.453-0300] {processor.py:186} INFO - Started process (PID=83763) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:20.454-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:29:20.457-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:20.455-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:21.234-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:21.257-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:21.257-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:29:21.273-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:21.273-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:29:21.291-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.849 seconds
+[2025-01-28T10:29:58.161-0300] {processor.py:186} INFO - Started process (PID=83962) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:58.162-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:29:58.163-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:58.163-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:58.670-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:29:58.686-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:58.686-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:29:58.699-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:29:58.698-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:29:58.714-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.574 seconds
+[2025-01-28T10:30:29.970-0300] {processor.py:186} INFO - Started process (PID=84109) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:30:29.971-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:30:29.972-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:30:29.972-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:30:30.372-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:30:30.384-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:30:30.384-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:30:30.394-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:30:30.393-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:30:30.407-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.445 seconds
+[2025-01-28T10:31:02.564-0300] {processor.py:186} INFO - Started process (PID=84253) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:02.565-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:31:02.566-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:02.566-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:02.966-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:02.979-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:02.979-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:31:02.990-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:02.990-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:31:03.003-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.443 seconds
+[2025-01-28T10:31:33.134-0300] {processor.py:186} INFO - Started process (PID=84392) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:33.135-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:31:33.137-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:33.137-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:33.490-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:31:33.506-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:33.506-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:31:33.519-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:31:33.519-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:31:33.530-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.404 seconds
+[2025-01-28T10:32:08.764-0300] {processor.py:186} INFO - Started process (PID=84533) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:08.766-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:32:08.767-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:08.767-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:09.135-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:09.147-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:09.147-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:32:09.157-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:09.157-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:32:09.176-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.421 seconds
+[2025-01-28T10:32:55.100-0300] {processor.py:186} INFO - Started process (PID=84699) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:55.101-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:32:55.102-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:55.102-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:55.611-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:32:55.629-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:55.629-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:32:55.644-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:32:55.644-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:32:55.660-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.565 seconds
+[2025-01-28T10:33:30.334-0300] {processor.py:186} INFO - Started process (PID=84838) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:33:30.335-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:33:30.336-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:33:30.336-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:33:30.839-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:33:30.854-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:33:30.854-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:33:30.869-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:33:30.869-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:33:30.884-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.558 seconds
+[2025-01-28T10:34:01.599-0300] {processor.py:186} INFO - Started process (PID=84965) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:01.601-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:34:01.603-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:01.602-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:02.200-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:02.215-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:02.215-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:34:02.228-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:02.227-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:34:02.241-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.648 seconds
+[2025-01-28T10:34:33.547-0300] {processor.py:186} INFO - Started process (PID=85093) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:33.550-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:34:33.551-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:33.551-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:34.106-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:34:34.122-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:34.122-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:34:34.135-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:34:34.135-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:34:34.149-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.610 seconds
+[2025-01-28T10:35:12.679-0300] {processor.py:186} INFO - Started process (PID=85280) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:12.680-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:35:12.681-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:12.680-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:13.324-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:13.367-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:13.367-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:35:13.394-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:13.393-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:35:13.417-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.748 seconds
+[2025-01-28T10:35:49.770-0300] {processor.py:186} INFO - Started process (PID=85413) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:49.771-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:35:49.777-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:49.775-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:50.584-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:35:50.609-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:50.609-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:35:50.626-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:35:50.626-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:35:50.646-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.923 seconds
+[2025-01-28T10:36:21.465-0300] {processor.py:186} INFO - Started process (PID=85501) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:21.467-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:36:21.468-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:21.467-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:21.881-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:21.891-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:21.890-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:36:21.900-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:21.900-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:36:21.913-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.458 seconds
+[2025-01-28T10:36:52.090-0300] {processor.py:186} INFO - Started process (PID=85584) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:52.091-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:36:52.092-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:52.091-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:52.567-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:36:52.582-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:52.582-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:36:52.596-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:36:52.596-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:36:52.611-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.527 seconds
+[2025-01-28T10:37:22.788-0300] {processor.py:186} INFO - Started process (PID=85670) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:22.789-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:37:22.790-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:22.790-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:23.210-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:23.225-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:23.225-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:37:23.235-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:23.235-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:37:23.249-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.471 seconds
+[2025-01-28T10:37:53.544-0300] {processor.py:186} INFO - Started process (PID=85755) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:53.545-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:37:53.546-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:53.546-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:54.006-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:37:54.026-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:54.026-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:37:54.042-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:37:54.042-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:37:54.058-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.521 seconds
+[2025-01-28T10:38:24.575-0300] {processor.py:186} INFO - Started process (PID=85847) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:24.576-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:38:24.579-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:24.578-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:25.021-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:25.038-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:25.038-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:38:25.050-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:25.050-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:38:25.064-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.496 seconds
+[2025-01-28T10:38:55.169-0300] {processor.py:186} INFO - Started process (PID=85963) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:55.171-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:38:55.174-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:55.172-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:55.856-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:38:55.885-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:55.885-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:38:55.912-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:38:55.912-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:38:55.929-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.769 seconds
+[2025-01-28T10:39:26.096-0300] {processor.py:186} INFO - Started process (PID=86048) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:26.100-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:39:26.101-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:26.101-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:26.728-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:26.757-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:26.757-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:39:26.777-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:26.777-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:39:26.805-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.727 seconds
+[2025-01-28T10:39:56.943-0300] {processor.py:186} INFO - Started process (PID=86168) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:56.944-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:39:56.949-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:56.945-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:57.835-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:39:57.891-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:57.891-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:39:57.919-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:39:57.919-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:39:57.945-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 1.013 seconds
+[2025-01-28T10:40:51.505-0300] {processor.py:186} INFO - Started process (PID=86286) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:40:51.508-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:40:51.512-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:40:51.509-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:40:57.709-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:40:57.781-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:40:57.777-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:40:57.812-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:40:57.812-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:40:57.849-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 6.363 seconds
+[2025-01-28T10:41:27.981-0300] {processor.py:186} INFO - Started process (PID=86373) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:27.982-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:41:27.986-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:27.983-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:28.475-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:28.492-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:28.491-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:41:28.504-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:28.504-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:41:28.517-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.547 seconds
+[2025-01-28T10:41:58.671-0300] {processor.py:186} INFO - Started process (PID=86458) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:58.672-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:41:58.674-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:58.673-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:59.215-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:41:59.233-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:59.233-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:41:59.249-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:41:59.249-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:41:59.268-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.609 seconds
+[2025-01-28T10:42:29.452-0300] {processor.py:186} INFO - Started process (PID=86549) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:42:29.453-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:42:29.455-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:42:29.454-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:42:30.084-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:42:30.098-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:42:30.098-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:42:30.111-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:42:30.111-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:42:30.125-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.682 seconds
+[2025-01-28T10:43:00.375-0300] {processor.py:186} INFO - Started process (PID=86845) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:00.381-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:43:00.387-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:00.383-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:00.950-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:00.967-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:00.967-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:43:00.980-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:00.979-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:43:01.001-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.713 seconds
+[2025-01-28T10:43:31.170-0300] {processor.py:186} INFO - Started process (PID=86948) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:31.171-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:43:31.174-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:31.172-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:31.808-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:43:31.830-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:31.830-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:43:31.847-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:43:31.846-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:43:31.869-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.709 seconds
+[2025-01-28T10:44:02.076-0300] {processor.py:186} INFO - Started process (PID=87055) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:02.077-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:44:02.079-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:02.077-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:02.596-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:02.615-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:02.615-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:44:02.629-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:02.629-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:44:02.649-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.589 seconds
+[2025-01-28T10:44:33.427-0300] {processor.py:186} INFO - Started process (PID=87150) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:33.428-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:44:33.430-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:33.429-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:33.754-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:44:33.774-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:33.774-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:44:33.785-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:44:33.785-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:44:33.797-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.381 seconds
+[2025-01-28T10:45:03.883-0300] {processor.py:186} INFO - Started process (PID=87251) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:03.884-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:45:03.885-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:03.885-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:04.232-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:04.247-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:04.247-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:45:04.260-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:04.260-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:45:04.280-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.408 seconds
+[2025-01-28T10:45:34.614-0300] {processor.py:186} INFO - Started process (PID=87366) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:34.615-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:45:34.618-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:34.616-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:35.030-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:45:35.049-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:35.049-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:45:35.063-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:45:35.063-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:45:35.078-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.475 seconds
+[2025-01-28T10:46:05.520-0300] {processor.py:186} INFO - Started process (PID=87469) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:05.521-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:46:05.524-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:05.522-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:06.150-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:06.168-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:06.167-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:46:06.182-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:06.182-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:46:06.199-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.693 seconds
+[2025-01-28T10:46:36.353-0300] {processor.py:186} INFO - Started process (PID=87572) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:36.353-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:46:36.355-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:36.354-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:36.849-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:46:36.869-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:36.868-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:46:36.885-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:46:36.885-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:46:36.906-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.558 seconds
+[2025-01-28T10:47:08.047-0300] {processor.py:186} INFO - Started process (PID=87679) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:08.048-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:47:08.048-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:08.048-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:08.405-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:08.416-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:08.416-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:47:08.426-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:08.426-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:47:08.439-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.396 seconds
+[2025-01-28T10:47:39.708-0300] {processor.py:186} INFO - Started process (PID=87784) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:39.709-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:47:39.709-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:39.709-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:40.128-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:47:40.145-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:40.145-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:47:40.162-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:47:40.162-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:47:40.181-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.478 seconds
+[2025-01-28T10:48:11.069-0300] {processor.py:186} INFO - Started process (PID=87882) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:11.071-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:48:11.076-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:11.072-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:11.619-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:11.650-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:11.649-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:48:11.665-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:11.665-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:48:11.687-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.634 seconds
+[2025-01-28T10:48:42.737-0300] {processor.py:186} INFO - Started process (PID=88034) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:42.739-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:48:42.741-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:42.739-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:43.514-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:48:43.553-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:43.551-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:48:43.580-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:48:43.580-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:48:43.607-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.880 seconds
+[2025-01-28T10:49:13.854-0300] {processor.py:186} INFO - Started process (PID=88129) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:13.856-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:49:13.859-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:13.857-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:14.653-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:14.776-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:14.772-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:49:14.793-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:14.793-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:49:14.827-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 0.982 seconds
+[2025-01-28T10:49:44.937-0300] {processor.py:186} INFO - Started process (PID=88241) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:44.938-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:49:44.943-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:44.939-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:45.912-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:49:45.958-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:45.956-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:49:45.977-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:49:45.977-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:49:46.004-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 1.078 seconds
+[2025-01-28T10:50:16.274-0300] {processor.py:186} INFO - Started process (PID=88342) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:16.275-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:50:16.279-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:16.276-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:17.248-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:17.411-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:17.398-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:50:17.456-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:17.456-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:50:17.509-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 1.244 seconds
+[2025-01-28T10:50:53.459-0300] {processor.py:186} INFO - Started process (PID=88482) to work on /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:53.461-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGCsvToJson.py for tasks to queue
+[2025-01-28T10:50:53.465-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:53.461-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:54.448-0300] {processor.py:925} INFO - DAG(s) 'MyCSVDAG' retrieved from /home/lucas/airflow/dags/DAGCsvToJson.py
+[2025-01-28T10:50:54.547-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:54.545-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-28T10:50:54.600-0300] {logging_mixin.py:190} INFO - [2025-01-28T10:50:54.599-0300] {dag.py:4180} INFO - Setting next_dagrun for MyCSVDAG to 2020-03-18 03:55:00+00:00, run_after=2020-03-18 04:00:00+00:00
+[2025-01-28T10:50:54.679-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGCsvToJson.py took 1.230 seconds

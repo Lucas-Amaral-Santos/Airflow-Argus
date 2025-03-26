@@ -1,0 +1,1050 @@
+[2025-01-27T15:27:37.006-0300] {processor.py:186} INFO - Started process (PID=5433) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:27:37.007-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:27:37.008-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:27:37.007-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:27:37.296-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:27:37.301-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:27:37.301-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:27:37.316-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:27:37.316-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:27:37.342-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.344 seconds
+[2025-01-27T15:28:09.089-0300] {processor.py:186} INFO - Started process (PID=5489) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:09.090-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:28:09.092-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:09.091-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:09.361-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:09.434-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:09.434-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:28:09.447-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:09.447-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:28:09.461-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.383 seconds
+[2025-01-27T15:28:39.593-0300] {processor.py:186} INFO - Started process (PID=5559) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:39.605-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:28:39.607-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:39.607-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:39.925-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:28:39.941-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:39.939-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:28:39.957-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:28:39.957-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:28:39.978-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.395 seconds
+[2025-01-27T15:29:10.208-0300] {processor.py:186} INFO - Started process (PID=5617) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:10.219-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:29:10.221-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:10.221-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:10.495-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:10.501-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:10.501-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:29:10.515-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:10.515-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:29:10.540-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.343 seconds
+[2025-01-27T15:29:40.701-0300] {processor.py:186} INFO - Started process (PID=5681) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:40.713-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:29:40.715-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:40.715-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:40.991-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:29:41.061-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:41.060-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:29:41.073-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:29:41.073-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:29:41.099-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.408 seconds
+[2025-01-27T15:30:12.245-0300] {processor.py:186} INFO - Started process (PID=5751) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:12.256-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:30:12.258-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:12.258-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:12.536-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:12.550-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:12.550-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:30:12.564-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:12.564-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:30:12.588-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.355 seconds
+[2025-01-27T15:30:42.852-0300] {processor.py:186} INFO - Started process (PID=5803) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:42.890-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:30:42.893-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:42.892-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:43.195-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:30:43.201-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:43.200-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:30:43.217-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:30:43.216-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:30:43.244-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.402 seconds
+[2025-01-27T15:31:13.465-0300] {processor.py:186} INFO - Started process (PID=5852) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:13.503-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:31:13.506-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:13.505-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:13.792-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:13.863-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:13.862-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:31:13.875-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:13.875-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:31:13.901-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.447 seconds
+[2025-01-27T15:31:44.071-0300] {processor.py:186} INFO - Started process (PID=5914) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:44.110-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:31:44.112-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:44.112-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:44.413-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:31:44.427-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:44.427-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:31:44.441-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:31:44.441-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:31:44.468-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.407 seconds
+[2025-01-27T15:32:15.470-0300] {processor.py:186} INFO - Started process (PID=7084) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:15.470-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:32:15.471-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:15.471-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:15.828-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:15.849-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:15.849-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:32:15.891-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:15.890-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:32:15.958-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.495 seconds
+[2025-01-27T15:32:46.998-0300] {processor.py:186} INFO - Started process (PID=7700) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:47.000-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:32:47.004-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:47.003-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:47.507-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:32:47.535-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:47.535-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:32:47.562-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:32:47.562-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:32:47.580-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.603 seconds
+[2025-01-27T15:33:17.830-0300] {processor.py:186} INFO - Started process (PID=7885) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:17.831-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:33:17.832-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:17.832-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:18.185-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:18.203-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:18.202-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:33:18.221-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:18.221-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:33:18.239-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.416 seconds
+[2025-01-27T15:33:48.985-0300] {processor.py:186} INFO - Started process (PID=7977) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:48.986-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:33:48.987-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:48.987-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:49.330-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:33:49.346-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:49.345-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:33:49.365-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:33:49.364-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:33:49.384-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.406 seconds
+[2025-01-27T15:34:19.631-0300] {processor.py:186} INFO - Started process (PID=8096) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:34:19.640-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:34:19.642-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:34:19.642-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:34:19.955-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:34:19.971-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:34:19.971-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:34:19.988-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:34:19.988-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:34:20.010-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.391 seconds
+[2025-01-27T15:35:03.096-0300] {processor.py:186} INFO - Started process (PID=8278) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:03.097-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:35:03.099-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:03.099-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:03.575-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:03.610-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:03.609-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:35:03.632-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:03.632-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:35:03.650-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.567 seconds
+[2025-01-27T15:35:54.663-0300] {processor.py:186} INFO - Started process (PID=8437) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:54.665-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:35:54.672-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:54.671-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:55.320-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:35:55.355-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:55.355-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:35:55.391-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:35:55.391-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:35:55.421-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.977 seconds
+[2025-01-27T15:36:40.818-0300] {processor.py:186} INFO - Started process (PID=8605) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:36:40.819-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:36:40.820-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:36:40.820-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:36:41.094-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:36:41.108-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:36:41.108-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:36:41.123-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:36:41.122-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:36:41.149-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.337 seconds
+[2025-01-27T15:37:24.529-0300] {processor.py:186} INFO - Started process (PID=8763) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:37:24.531-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:37:24.533-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:37:24.532-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:37:24.843-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:37:24.857-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:37:24.857-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:37:24.876-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:37:24.876-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:37:24.896-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.379 seconds
+[2025-01-27T15:38:13.437-0300] {processor.py:186} INFO - Started process (PID=8923) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:13.438-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:38:13.440-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:13.440-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:13.742-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:13.758-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:13.757-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:38:13.773-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:13.772-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:38:13.798-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.373 seconds
+[2025-01-27T15:38:58.162-0300] {processor.py:186} INFO - Started process (PID=9063) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:58.164-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:38:58.165-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:58.165-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:58.445-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:38:58.459-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:58.459-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:38:58.475-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:38:58.475-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:38:58.492-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.341 seconds
+[2025-01-27T15:39:32.547-0300] {processor.py:186} INFO - Started process (PID=9226) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:39:32.550-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:39:32.553-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:39:32.552-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:39:32.837-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:39:32.851-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:39:32.851-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:39:32.866-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:39:32.866-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:39:32.901-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.368 seconds
+[2025-01-27T15:40:08.321-0300] {processor.py:186} INFO - Started process (PID=9439) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:08.332-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:40:08.334-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:08.333-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:08.612-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:08.626-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:08.626-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:40:08.642-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:08.642-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:40:08.667-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.358 seconds
+[2025-01-27T15:40:39.659-0300] {processor.py:186} INFO - Started process (PID=9560) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:39.660-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:40:39.662-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:39.662-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:39.956-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:40:39.978-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:39.977-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:40:39.998-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:40:39.998-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:40:40.021-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.374 seconds
+[2025-01-27T15:41:10.661-0300] {processor.py:186} INFO - Started process (PID=9644) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:10.672-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:41:10.675-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:10.674-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:10.962-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:10.976-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:10.976-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:41:10.991-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:10.991-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:41:11.016-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.368 seconds
+[2025-01-27T15:41:41.870-0300] {processor.py:186} INFO - Started process (PID=9730) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:41.872-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:41:41.874-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:41.873-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:42.186-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:41:42.200-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:42.200-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:41:42.217-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:41:42.216-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:41:42.243-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.385 seconds
+[2025-01-27T15:42:12.828-0300] {processor.py:186} INFO - Started process (PID=9832) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:12.829-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:42:12.831-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:12.831-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:13.140-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:13.154-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:13.154-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:42:13.170-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:13.170-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:42:13.195-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.378 seconds
+[2025-01-27T15:42:43.693-0300] {processor.py:186} INFO - Started process (PID=9920) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:43.705-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:42:43.707-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:43.706-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:44.013-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:42:44.028-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:44.028-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:42:44.043-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:42:44.043-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:42:44.068-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.386 seconds
+[2025-01-27T15:43:14.567-0300] {processor.py:186} INFO - Started process (PID=10005) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:14.568-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:43:14.570-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:14.570-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:14.851-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:14.866-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:14.866-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:43:14.881-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:14.880-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:43:14.895-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.341 seconds
+[2025-01-27T15:43:45.579-0300] {processor.py:186} INFO - Started process (PID=10090) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:45.591-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:43:45.593-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:45.592-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:45.881-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:43:45.896-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:45.896-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:43:45.912-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:43:45.912-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:43:45.937-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.370 seconds
+[2025-01-27T15:44:16.577-0300] {processor.py:186} INFO - Started process (PID=10175) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:16.578-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:44:16.580-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:16.579-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:16.858-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:16.873-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:16.872-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:44:16.889-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:16.889-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:44:16.914-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.350 seconds
+[2025-01-27T15:44:51.426-0300] {processor.py:186} INFO - Started process (PID=10334) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:51.427-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:44:51.429-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:51.429-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:51.711-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:44:51.727-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:51.725-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:44:51.742-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:44:51.742-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:44:51.768-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.353 seconds
+[2025-01-27T15:45:22.772-0300] {processor.py:186} INFO - Started process (PID=10546) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:22.773-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:45:22.775-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:22.774-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:23.055-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:23.070-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:23.070-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:45:23.085-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:23.085-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:45:23.110-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.350 seconds
+[2025-01-27T15:45:54.357-0300] {processor.py:186} INFO - Started process (PID=10729) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:54.358-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:45:54.360-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:54.360-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:54.630-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:45:54.645-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:54.645-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:45:54.660-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:45:54.659-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:45:54.685-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.340 seconds
+[2025-01-27T15:46:25.639-0300] {processor.py:186} INFO - Started process (PID=10880) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:25.651-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:46:25.653-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:25.652-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:25.940-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:25.955-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:25.954-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:46:25.969-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:25.969-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:46:25.996-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.369 seconds
+[2025-01-27T15:46:56.844-0300] {processor.py:186} INFO - Started process (PID=10997) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:56.845-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:46:56.847-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:56.846-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:57.167-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:46:57.183-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:57.183-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:46:57.201-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:46:57.201-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:46:57.219-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.388 seconds
+[2025-01-27T15:47:27.690-0300] {processor.py:186} INFO - Started process (PID=11199) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:27.692-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:47:27.694-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:27.693-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:28.014-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:28.031-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:28.030-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:47:28.046-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:28.046-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:47:28.062-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.388 seconds
+[2025-01-27T15:47:58.977-0300] {processor.py:186} INFO - Started process (PID=11704) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:58.977-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:47:58.978-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:58.978-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:59.339-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:47:59.356-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:59.355-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:47:59.374-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:47:59.374-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:47:59.390-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.420 seconds
+[2025-01-27T15:48:30.053-0300] {processor.py:186} INFO - Started process (PID=12115) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:48:30.064-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:48:30.066-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:48:30.066-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:48:30.387-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:48:30.402-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:48:30.402-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:48:30.418-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:48:30.418-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:48:30.435-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.396 seconds
+[2025-01-27T15:49:01.052-0300] {processor.py:186} INFO - Started process (PID=12338) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:01.053-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:49:01.056-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:01.055-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:01.361-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:01.377-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:01.376-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:49:01.395-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:01.394-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:49:01.413-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.373 seconds
+[2025-01-27T15:49:31.860-0300] {processor.py:186} INFO - Started process (PID=12564) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:31.862-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:49:31.864-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:31.863-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:32.169-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:49:32.185-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:32.183-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:49:32.206-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:49:32.206-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:49:32.232-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.384 seconds
+[2025-01-27T15:50:02.930-0300] {processor.py:186} INFO - Started process (PID=12885) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:50:02.941-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:50:02.944-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:50:02.943-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:50:03.361-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:50:03.384-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:50:03.383-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:50:03.406-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:50:03.405-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:50:03.427-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.513 seconds
+[2025-01-27T15:53:20.358-0300] {processor.py:186} INFO - Started process (PID=13899) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:53:20.360-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:53:20.361-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:53:20.361-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:53:20.661-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:53:20.676-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:53:20.675-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:53:20.687-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:53:20.687-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:53:20.712-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.364 seconds
+[2025-01-27T15:54:03.635-0300] {processor.py:186} INFO - Started process (PID=14142) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:03.636-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:54:03.639-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:03.638-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:03.901-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:03.916-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:03.916-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:54:03.928-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:03.928-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:54:03.953-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.328 seconds
+[2025-01-27T15:54:51.240-0300] {processor.py:186} INFO - Started process (PID=14405) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:51.242-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:54:51.243-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:51.243-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:51.540-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:54:51.554-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:51.553-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:54:51.567-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:54:51.566-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:54:51.589-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.358 seconds
+[2025-01-27T15:55:30.542-0300] {processor.py:186} INFO - Started process (PID=14650) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:55:30.545-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:55:30.547-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:55:30.546-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:55:30.851-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:55:30.867-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:55:30.866-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:55:30.880-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:55:30.880-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:55:30.897-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.365 seconds
+[2025-01-27T15:56:03.616-0300] {processor.py:186} INFO - Started process (PID=14929) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:03.618-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:56:03.620-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:03.619-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:03.899-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:03.914-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:03.913-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:56:03.926-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:03.926-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:56:03.941-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.335 seconds
+[2025-01-27T15:56:34.066-0300] {processor.py:186} INFO - Started process (PID=15132) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:34.067-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:56:34.069-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:34.068-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:34.344-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:56:34.358-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:34.358-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:56:34.370-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:56:34.370-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:56:34.394-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.338 seconds
+[2025-01-27T15:57:04.804-0300] {processor.py:186} INFO - Started process (PID=15294) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:04.816-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:57:04.818-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:04.817-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:05.126-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:05.140-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:05.140-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:57:05.154-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:05.153-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:57:05.178-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.385 seconds
+[2025-01-27T15:57:35.440-0300] {processor.py:186} INFO - Started process (PID=15474) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:35.441-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:57:35.443-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:35.442-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:35.722-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:57:35.737-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:35.737-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:57:35.749-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:57:35.749-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:57:35.763-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.333 seconds
+[2025-01-27T15:58:06.159-0300] {processor.py:186} INFO - Started process (PID=15637) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:06.160-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:58:06.162-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:06.161-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:06.433-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:06.447-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:06.447-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:58:06.459-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:06.459-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:58:06.473-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.324 seconds
+[2025-01-27T15:58:36.808-0300] {processor.py:186} INFO - Started process (PID=15796) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:36.809-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:58:36.811-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:36.811-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:37.088-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:58:37.102-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:37.102-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:58:37.114-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:58:37.114-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:58:37.140-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.342 seconds
+[2025-01-27T15:59:07.476-0300] {processor.py:186} INFO - Started process (PID=15959) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:07.477-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:59:07.479-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:07.479-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:07.765-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:07.779-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:07.778-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:59:07.792-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:07.791-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:59:07.816-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.350 seconds
+[2025-01-27T15:59:38.123-0300] {processor.py:186} INFO - Started process (PID=16116) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:38.124-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T15:59:38.126-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:38.125-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:38.395-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T15:59:38.410-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:38.409-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T15:59:38.422-0300] {logging_mixin.py:190} INFO - [2025-01-27T15:59:38.421-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T15:59:38.446-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.334 seconds
+[2025-01-27T16:00:08.577-0300] {processor.py:186} INFO - Started process (PID=16274) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:08.589-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:00:08.591-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:08.590-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:08.873-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:08.887-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:08.887-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:00:08.899-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:08.899-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:00:08.924-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.358 seconds
+[2025-01-27T16:00:43.411-0300] {processor.py:186} INFO - Started process (PID=16515) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:43.412-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:00:43.414-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:43.413-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:43.703-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:00:43.718-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:43.717-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:00:43.729-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:00:43.729-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:00:43.755-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.354 seconds
+[2025-01-27T16:01:15.068-0300] {processor.py:186} INFO - Started process (PID=16808) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:15.069-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:01:15.070-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:15.070-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:15.327-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:15.341-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:15.341-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:01:15.354-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:15.354-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:01:15.379-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.317 seconds
+[2025-01-27T16:01:46.811-0300] {processor.py:186} INFO - Started process (PID=17072) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:46.812-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:01:46.814-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:46.813-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:47.104-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:01:47.119-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:47.119-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:01:47.131-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:01:47.131-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:01:47.145-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.344 seconds
+[2025-01-27T16:02:17.803-0300] {processor.py:186} INFO - Started process (PID=17315) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:17.804-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:02:17.806-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:17.805-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:18.081-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:18.095-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:18.095-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:02:18.107-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:18.107-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:02:18.132-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.339 seconds
+[2025-01-27T16:02:48.481-0300] {processor.py:186} INFO - Started process (PID=17472) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:48.493-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:02:48.495-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:48.494-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:48.767-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:02:48.781-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:48.781-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:02:48.793-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:02:48.793-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:02:48.819-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.348 seconds
+[2025-01-27T16:03:19.138-0300] {processor.py:186} INFO - Started process (PID=17628) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:19.139-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:03:19.141-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:19.140-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:19.425-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:19.440-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:19.439-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:03:19.453-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:19.453-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:03:19.477-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.350 seconds
+[2025-01-27T16:03:49.814-0300] {processor.py:186} INFO - Started process (PID=17782) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:49.826-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:03:49.828-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:49.827-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:50.103-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:03:50.118-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:50.117-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:03:50.130-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:03:50.129-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:03:50.154-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.350 seconds
+[2025-01-27T16:04:20.477-0300] {processor.py:186} INFO - Started process (PID=17940) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:20.478-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:04:20.479-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:20.479-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:20.749-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:20.763-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:20.763-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:04:20.775-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:20.775-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:04:20.799-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.334 seconds
+[2025-01-27T16:04:51.137-0300] {processor.py:186} INFO - Started process (PID=18099) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:51.148-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T16:04:51.150-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:51.149-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:51.422-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T16:04:51.436-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:51.436-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T16:04:51.448-0300] {logging_mixin.py:190} INFO - [2025-01-27T16:04:51.447-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T16:04:51.473-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.347 seconds
+[2025-01-27T20:01:38.901-0300] {processor.py:186} INFO - Started process (PID=18970) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:01:38.903-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:01:38.905-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:01:38.904-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:01:39.256-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:01:39.272-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:01:39.272-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:01:39.288-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:01:39.287-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:01:39.304-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.416 seconds
+[2025-01-27T20:02:10.263-0300] {processor.py:186} INFO - Started process (PID=19286) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:10.265-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:02:10.266-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:10.266-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:10.542-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:10.560-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:10.560-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:02:10.576-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:10.576-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:02:10.591-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.337 seconds
+[2025-01-27T20:02:41.383-0300] {processor.py:186} INFO - Started process (PID=19665) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:41.384-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:02:41.385-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:41.385-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:41.725-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:02:41.747-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:41.747-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:02:41.766-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:02:41.766-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:02:41.790-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.415 seconds
+[2025-01-27T20:03:12.327-0300] {processor.py:186} INFO - Started process (PID=19873) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:12.329-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:03:12.332-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:12.331-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:12.675-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:12.693-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:12.693-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:03:12.710-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:12.710-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:03:12.729-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.418 seconds
+[2025-01-27T20:03:43.646-0300] {processor.py:186} INFO - Started process (PID=20091) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:43.649-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:03:43.651-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:43.650-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:43.988-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:03:44.002-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:44.002-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:03:44.016-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:03:44.016-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:03:44.030-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.397 seconds
+[2025-01-27T20:04:14.460-0300] {processor.py:186} INFO - Started process (PID=20345) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:14.461-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:04:14.463-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:14.463-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:14.830-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:14.847-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:14.847-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:04:14.859-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:14.859-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:04:14.873-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.424 seconds
+[2025-01-27T20:04:45.175-0300] {processor.py:186} INFO - Started process (PID=20664) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:45.187-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:04:45.189-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:45.188-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:45.469-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:04:45.483-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:45.483-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:04:45.507-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:04:45.507-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:04:45.522-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.358 seconds
+[2025-01-27T20:05:15.859-0300] {processor.py:186} INFO - Started process (PID=20911) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:15.860-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:05:15.862-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:15.861-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:16.165-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:16.179-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:16.179-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:05:16.194-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:16.194-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:05:16.215-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.375 seconds
+[2025-01-27T20:05:46.557-0300] {processor.py:186} INFO - Started process (PID=21075) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:46.569-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:05:46.572-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:46.571-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:46.900-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:05:46.917-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:46.917-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:05:46.934-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:05:46.934-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:05:46.962-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.417 seconds
+[2025-01-27T20:06:17.352-0300] {processor.py:186} INFO - Started process (PID=21283) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:17.353-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:06:17.354-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:17.353-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:17.719-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:17.747-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:17.746-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:06:17.769-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:17.768-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:06:17.791-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.447 seconds
+[2025-01-27T20:06:48.149-0300] {processor.py:186} INFO - Started process (PID=21469) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:48.151-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:06:48.153-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:48.152-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:48.521-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:06:48.537-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:48.537-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:06:48.552-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:06:48.551-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:06:48.568-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.431 seconds
+[2025-01-27T20:10:09.962-0300] {processor.py:186} INFO - Started process (PID=22504) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:09.964-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:10:09.966-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:09.965-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:10.415-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:10.429-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:10.428-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:10:10.450-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:10.450-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:10:10.465-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.515 seconds
+[2025-01-27T20:10:59.169-0300] {processor.py:186} INFO - Started process (PID=22766) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:59.171-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:10:59.173-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:59.172-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:59.585-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:10:59.598-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:59.598-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:10:59.611-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:10:59.610-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:10:59.630-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.471 seconds
+[2025-01-27T20:11:53.588-0300] {processor.py:186} INFO - Started process (PID=23068) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:11:53.589-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:11:53.591-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:11:53.590-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:11:54.182-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:11:54.196-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:11:54.196-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:11:54.209-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:11:54.209-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:11:54.225-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.644 seconds
+[2025-01-27T20:12:26.458-0300] {processor.py:186} INFO - Started process (PID=23316) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:26.460-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:12:26.461-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:26.460-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:26.859-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:26.872-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:26.872-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:12:26.889-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:26.888-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:12:26.912-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.463 seconds
+[2025-01-27T20:12:58.096-0300] {processor.py:186} INFO - Started process (PID=23552) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:58.097-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:12:58.099-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:58.098-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:58.550-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:12:58.563-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:58.563-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:12:58.576-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:12:58.576-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:12:58.610-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.525 seconds
+[2025-01-27T20:13:29.426-0300] {processor.py:186} INFO - Started process (PID=23724) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:13:29.438-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:13:29.440-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:13:29.439-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:13:29.888-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:13:29.900-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:13:29.899-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:13:29.911-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:13:29.911-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:13:29.927-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.513 seconds
+[2025-01-27T20:14:01.028-0300] {processor.py:186} INFO - Started process (PID=23884) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:01.039-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:14:01.042-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:01.041-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:01.527-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:01.540-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:01.540-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:14:01.553-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:01.553-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:14:01.576-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.559 seconds
+[2025-01-27T20:14:32.062-0300] {processor.py:186} INFO - Started process (PID=24086) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:32.065-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:14:32.067-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:32.066-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:32.522-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:14:32.537-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:32.537-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:14:32.548-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:14:32.548-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:14:32.563-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.513 seconds
+[2025-01-27T20:15:03.089-0300] {processor.py:186} INFO - Started process (PID=24252) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:03.101-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:15:03.103-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:03.102-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:03.558-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:03.570-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:03.570-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:15:03.581-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:03.581-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:15:03.605-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.528 seconds
+[2025-01-27T20:15:34.128-0300] {processor.py:186} INFO - Started process (PID=24409) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:34.130-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:15:34.131-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:34.131-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:34.541-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:15:34.554-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:34.554-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:15:34.566-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:15:34.566-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:15:34.593-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.473 seconds
+[2025-01-27T20:16:05.041-0300] {processor.py:186} INFO - Started process (PID=24567) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:05.042-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:16:05.044-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:05.043-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:05.478-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:05.492-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:05.492-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:16:05.506-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:05.505-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:16:05.529-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.499 seconds
+[2025-01-27T20:16:35.974-0300] {processor.py:186} INFO - Started process (PID=24727) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:35.985-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:16:35.987-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:35.987-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:36.418-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:16:36.432-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:36.432-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:16:36.443-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:16:36.442-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:16:36.470-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.509 seconds
+[2025-01-27T20:17:06.996-0300] {processor.py:186} INFO - Started process (PID=24925) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:06.998-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:17:07.000-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:06.999-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:07.422-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:07.435-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:07.434-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:17:07.446-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:07.446-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:17:07.470-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.486 seconds
+[2025-01-27T20:17:37.912-0300] {processor.py:186} INFO - Started process (PID=25195) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:37.913-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:17:37.915-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:37.914-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:38.339-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:17:38.351-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:38.351-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:17:38.363-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:17:38.363-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:17:38.379-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.478 seconds
+[2025-01-27T20:18:09.095-0300] {processor.py:186} INFO - Started process (PID=25437) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:09.106-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:18:09.107-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:09.107-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:09.523-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:09.538-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:09.538-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:18:09.552-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:09.552-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:18:09.577-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.493 seconds
+[2025-01-27T20:18:42.768-0300] {processor.py:186} INFO - Started process (PID=25728) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:42.774-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:18:42.776-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:42.776-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:43.242-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:18:43.257-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:43.256-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:18:43.267-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:18:43.267-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:18:43.295-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.540 seconds
+[2025-01-27T20:19:14.214-0300] {processor.py:186} INFO - Started process (PID=25936) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:14.215-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:19:14.217-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:14.216-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:14.617-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:14.630-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:14.630-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:19:14.642-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:14.641-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:19:14.666-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.463 seconds
+[2025-01-27T20:19:45.838-0300] {processor.py:186} INFO - Started process (PID=26100) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:45.840-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:19:45.842-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:45.841-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:46.241-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:19:46.253-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:46.253-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:19:46.263-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:19:46.263-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:19:46.289-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.463 seconds
+[2025-01-27T20:20:17.132-0300] {processor.py:186} INFO - Started process (PID=26257) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:17.133-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:20:17.136-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:17.135-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:17.551-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:17.565-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:17.564-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:20:17.576-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:17.576-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:20:17.591-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.471 seconds
+[2025-01-27T20:20:48.508-0300] {processor.py:186} INFO - Started process (PID=26421) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:48.519-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:20:48.521-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:48.521-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:48.954-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:20:48.966-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:48.966-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:20:48.977-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:20:48.976-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:20:49.002-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.505 seconds
+[2025-01-27T20:21:19.710-0300] {processor.py:186} INFO - Started process (PID=26591) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:19.711-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:21:19.713-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:19.712-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:20.154-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:20.167-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:20.166-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:21:20.177-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:20.177-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:21:20.203-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.504 seconds
+[2025-01-27T20:21:50.490-0300] {processor.py:186} INFO - Started process (PID=26761) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:50.501-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:21:50.504-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:50.503-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:50.948-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:21:50.963-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:50.962-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:21:50.974-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:21:50.974-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:21:51.003-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.525 seconds
+[2025-01-27T20:22:21.268-0300] {processor.py:186} INFO - Started process (PID=26921) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:21.269-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:22:21.271-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:21.270-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:21.721-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:21.735-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:21.735-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:22:21.748-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:21.748-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:22:21.772-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.517 seconds
+[2025-01-27T20:22:53.073-0300] {processor.py:186} INFO - Started process (PID=27118) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:53.085-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:22:53.087-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:53.086-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:53.915-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:22:53.943-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:53.942-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:22:53.969-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:22:53.968-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:22:54.003-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.940 seconds
+[2025-01-27T20:25:02.096-0300] {processor.py:186} INFO - Started process (PID=27820) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:02.097-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:25:02.099-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:02.099-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:02.908-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:02.935-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:02.934-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:25:02.960-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:02.960-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:25:03.000-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.915 seconds
+[2025-01-27T20:25:38.224-0300] {processor.py:186} INFO - Started process (PID=28023) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:38.225-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:25:38.228-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:38.227-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:39.000-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:25:39.027-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:39.026-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:25:39.055-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:25:39.055-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:25:39.097-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.885 seconds
+[2025-01-27T20:26:24.644-0300] {processor.py:186} INFO - Started process (PID=28331) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:26:24.646-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:26:24.647-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:26:24.647-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:26:25.462-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:26:25.491-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:26:25.491-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:26:25.515-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:26:25.515-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:26:25.546-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.913 seconds
+[2025-01-27T20:26:59.590-0300] {processor.py:186} INFO - Started process (PID=28557) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:26:59.602-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:26:59.604-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:26:59.603-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:27:00.331-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:27:00.357-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:27:00.357-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:27:00.380-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:27:00.380-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:27:00.417-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.838 seconds
+[2025-01-27T20:27:31.011-0300] {processor.py:186} INFO - Started process (PID=28727) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:27:31.013-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:27:31.015-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:27:31.014-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:27:31.746-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:27:31.771-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:27:31.770-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:27:31.796-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:27:31.795-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:27:31.832-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.833 seconds
+[2025-01-27T20:28:02.344-0300] {processor.py:186} INFO - Started process (PID=28921) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:02.356-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:28:02.358-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:02.357-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:03.110-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:03.136-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:03.135-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:28:03.162-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:03.162-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:28:03.201-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.869 seconds
+[2025-01-27T20:28:33.803-0300] {processor.py:186} INFO - Started process (PID=29101) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:33.804-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:28:33.806-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:33.805-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:34.580-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:28:34.609-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:34.608-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:28:34.633-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:28:34.633-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:28:34.673-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.883 seconds
+[2025-01-27T20:29:04.954-0300] {processor.py:186} INFO - Started process (PID=29275) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:04.956-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:29:04.958-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:04.957-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:05.744-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:05.770-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:05.770-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:29:05.794-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:05.793-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:29:05.834-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.891 seconds
+[2025-01-27T20:29:36.458-0300] {processor.py:186} INFO - Started process (PID=29436) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:36.459-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:29:36.462-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:36.461-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:37.264-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:29:37.294-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:37.293-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:29:37.320-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:29:37.320-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:29:37.360-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.918 seconds
+[2025-01-27T20:30:11.404-0300] {processor.py:186} INFO - Started process (PID=29644) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:11.416-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:30:11.418-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:11.418-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:12.190-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:12.217-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:12.216-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:30:12.243-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:12.243-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:30:12.282-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.891 seconds
+[2025-01-27T20:30:50.268-0300] {processor.py:186} INFO - Started process (PID=29859) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:50.270-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:30:50.272-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:50.271-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:51.034-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:30:51.059-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:51.058-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:30:51.085-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:30:51.084-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:30:51.122-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.865 seconds
+[2025-01-27T20:31:46.994-0300] {processor.py:186} INFO - Started process (PID=30211) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:31:46.995-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:31:46.997-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:31:46.997-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:31:47.801-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:31:47.832-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:31:47.832-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:31:47.860-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:31:47.860-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:31:47.897-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.915 seconds
+[2025-01-27T20:32:27.890-0300] {processor.py:186} INFO - Started process (PID=30460) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:32:27.892-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:32:27.894-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:32:27.893-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:32:28.648-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:32:28.679-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:32:28.678-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:32:28.705-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:32:28.704-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:32:28.742-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.863 seconds
+[2025-01-27T20:33:11.474-0300] {processor.py:186} INFO - Started process (PID=30762) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:11.476-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:33:11.478-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:11.478-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:12.224-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:12.250-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:12.250-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:33:12.274-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:12.274-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:33:12.315-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.854 seconds
+[2025-01-27T20:33:49.300-0300] {processor.py:186} INFO - Started process (PID=30986) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:49.312-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:33:49.315-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:49.314-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:50.049-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:33:50.075-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:50.074-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:33:50.101-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:33:50.101-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:33:50.129-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.842 seconds
+[2025-01-27T20:34:20.746-0300] {processor.py:186} INFO - Started process (PID=31177) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:20.748-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:34:20.750-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:20.749-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:21.553-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:21.580-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:21.579-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:34:21.603-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:21.602-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:34:21.641-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.907 seconds
+[2025-01-27T20:34:53.731-0300] {processor.py:186} INFO - Started process (PID=31423) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:53.732-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:34:53.735-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:53.734-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:54.492-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:34:54.519-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:54.518-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:34:54.545-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:34:54.545-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:34:54.578-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.859 seconds
+[2025-01-27T20:35:25.246-0300] {processor.py:186} INFO - Started process (PID=31590) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:25.247-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:35:25.249-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:25.249-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:25.968-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:25.993-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:25.993-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:35:26.019-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:26.019-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:35:26.055-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.819 seconds
+[2025-01-27T20:35:56.328-0300] {processor.py:186} INFO - Started process (PID=31768) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:56.340-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:35:56.342-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:56.341-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:57.218-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:35:57.248-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:57.248-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:35:57.275-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:35:57.274-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:35:57.318-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 1.004 seconds
+[2025-01-27T20:36:28.394-0300] {processor.py:186} INFO - Started process (PID=31942) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:36:28.405-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:36:28.407-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:36:28.407-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:36:29.261-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:36:29.297-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:36:29.296-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:36:29.332-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:36:29.332-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:36:29.381-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.999 seconds
+[2025-01-27T20:36:59.728-0300] {processor.py:186} INFO - Started process (PID=32118) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:36:59.730-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:36:59.731-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:36:59.731-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:37:00.521-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:37:00.547-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:37:00.546-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:37:00.572-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:37:00.571-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:37:00.610-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.894 seconds
+[2025-01-27T20:37:35.513-0300] {processor.py:186} INFO - Started process (PID=32357) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:37:35.515-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:37:35.517-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:37:35.517-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:37:36.204-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:37:36.227-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:37:36.227-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:37:36.250-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:37:36.249-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:37:36.276-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.774 seconds
+[2025-01-27T20:38:51.975-0300] {processor.py:186} INFO - Started process (PID=32850) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:38:51.978-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:38:51.981-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:38:51.980-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:38:52.765-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:38:52.794-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:38:52.793-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:38:52.830-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:38:52.829-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:38:52.864-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.901 seconds
+[2025-01-27T20:39:40.315-0300] {processor.py:186} INFO - Started process (PID=33116) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:39:40.316-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:39:40.318-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:39:40.317-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:39:40.967-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:39:40.991-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:39:40.991-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:39:41.014-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:39:41.013-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:39:41.038-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.733 seconds
+[2025-01-27T20:40:11.871-0300] {processor.py:186} INFO - Started process (PID=33340) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:11.873-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:40:11.875-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:11.874-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:12.666-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:12.693-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:12.693-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:40:12.717-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:12.716-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:40:12.758-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.897 seconds
+[2025-01-27T20:40:47.176-0300] {processor.py:186} INFO - Started process (PID=33585) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:47.178-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:40:47.179-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:47.179-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:47.842-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:40:47.863-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:47.863-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:40:47.883-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:40:47.883-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:40:47.908-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.741 seconds
+[2025-01-27T20:41:18.384-0300] {processor.py:186} INFO - Started process (PID=33982) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:18.386-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:41:18.388-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:18.387-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:19.031-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:19.053-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:19.053-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:41:19.076-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:19.075-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:41:19.110-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.736 seconds
+[2025-01-27T20:41:52.837-0300] {processor.py:186} INFO - Started process (PID=34230) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:52.839-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:41:52.842-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:52.841-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:53.729-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:41:53.754-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:53.754-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:41:53.775-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:41:53.775-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:41:53.800-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.979 seconds
+[2025-01-27T20:42:23.894-0300] {processor.py:186} INFO - Started process (PID=34487) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:23.896-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:42:23.898-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:23.897-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:24.701-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:24.725-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:24.725-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:42:24.749-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:24.749-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:42:24.779-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.899 seconds
+[2025-01-27T20:42:55.638-0300] {processor.py:186} INFO - Started process (PID=34768) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:55.650-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:42:55.652-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:55.651-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:56.368-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:42:56.390-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:56.390-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:42:56.411-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:42:56.411-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:42:56.448-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.821 seconds
+[2025-01-27T20:43:26.788-0300] {processor.py:186} INFO - Started process (PID=34987) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:43:26.789-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:43:26.793-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:43:26.792-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:43:27.635-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:43:27.671-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:43:27.670-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:43:27.709-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:43:27.709-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:43:27.747-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.974 seconds
+[2025-01-27T20:44:00.360-0300] {processor.py:186} INFO - Started process (PID=35183) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:00.362-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:44:00.364-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:00.363-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:01.150-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:01.175-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:01.174-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:44:01.207-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:01.207-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:44:01.241-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.890 seconds
+[2025-01-27T20:44:36.202-0300] {processor.py:186} INFO - Started process (PID=35310) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:36.204-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:44:36.206-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:36.206-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:37.314-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:44:37.341-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:37.341-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:44:37.367-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:44:37.367-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:44:37.399-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 1.211 seconds
+[2025-01-27T20:46:37.429-0300] {processor.py:186} INFO - Started process (PID=36048) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:46:37.430-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:46:37.431-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:46:37.431-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:46:37.724-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:46:37.733-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:46:37.732-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:46:37.750-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:46:37.750-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:46:37.762-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.337 seconds
+[2025-01-27T20:47:08.904-0300] {processor.py:186} INFO - Started process (PID=36371) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:08.905-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:47:08.906-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:08.906-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:09.231-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:09.241-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:09.240-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:47:09.251-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:09.251-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:47:09.272-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.371 seconds
+[2025-01-27T20:47:40.873-0300] {processor.py:186} INFO - Started process (PID=36675) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:40.874-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:47:40.875-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:40.875-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:41.288-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:47:41.303-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:41.303-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:47:41.315-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:47:41.315-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:47:41.330-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.464 seconds
+[2025-01-27T20:48:25.838-0300] {processor.py:186} INFO - Started process (PID=37027) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:48:25.839-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:48:25.840-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:48:25.840-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:48:26.267-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:48:26.279-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:48:26.279-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:48:26.290-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:48:26.289-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:48:26.302-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.470 seconds
+[2025-01-27T20:49:11.305-0300] {processor.py:186} INFO - Started process (PID=37284) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:11.306-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:49:11.307-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:11.306-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:11.735-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:11.747-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:11.747-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:49:11.757-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:11.757-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:49:11.771-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.472 seconds
+[2025-01-27T20:49:57.016-0300] {processor.py:186} INFO - Started process (PID=37535) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:57.018-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:49:57.020-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:57.019-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:57.825-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:49:57.858-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:57.857-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:49:57.886-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:49:57.886-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:49:57.928-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.921 seconds
+[2025-01-27T20:50:35.909-0300] {processor.py:186} INFO - Started process (PID=37730) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:50:35.909-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:50:35.910-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:50:35.910-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:50:36.398-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:50:36.410-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:50:36.410-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:50:36.423-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:50:36.423-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:50:36.438-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.533 seconds
+[2025-01-27T20:51:07.421-0300] {processor.py:186} INFO - Started process (PID=37919) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:07.422-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:51:07.423-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:07.422-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:07.821-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:07.832-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:07.832-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:51:07.840-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:07.840-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:51:07.856-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.439 seconds
+[2025-01-27T20:51:40.533-0300] {processor.py:186} INFO - Started process (PID=38112) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:40.533-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:51:40.534-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:40.534-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:40.905-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:51:40.920-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:40.920-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:51:40.932-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:51:40.932-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:51:40.951-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.422 seconds
+[2025-01-27T20:52:18.110-0300] {processor.py:186} INFO - Started process (PID=38391) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:18.111-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:52:18.113-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:18.112-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:18.650-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:18.668-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:18.668-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:52:18.683-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:18.682-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:52:18.702-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.599 seconds
+[2025-01-27T20:52:58.634-0300] {processor.py:186} INFO - Started process (PID=38663) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:58.639-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:52:58.641-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:58.640-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:58.958-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:52:58.967-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:58.967-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:52:58.977-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:52:58.977-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:52:59.001-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.375 seconds
+[2025-01-27T20:53:50.004-0300] {processor.py:186} INFO - Started process (PID=38917) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:53:50.005-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:53:50.007-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:53:50.006-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:53:50.471-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:53:50.485-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:53:50.485-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:53:50.500-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:53:50.500-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:53:50.515-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.517 seconds
+[2025-01-27T20:54:34.198-0300] {processor.py:186} INFO - Started process (PID=39205) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:54:34.200-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:54:34.202-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:54:34.201-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:54:34.597-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:54:34.609-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:54:34.609-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:54:34.618-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:54:34.618-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:54:34.631-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.439 seconds
+[2025-01-27T20:55:14.688-0300] {processor.py:186} INFO - Started process (PID=39441) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:55:14.689-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:55:14.690-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:55:14.690-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:55:15.114-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:55:15.125-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:55:15.125-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:55:15.136-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:55:15.136-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:55:15.150-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.470 seconds
+[2025-01-27T20:56:19.913-0300] {processor.py:186} INFO - Started process (PID=39835) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:56:19.913-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:56:19.914-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:56:19.914-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:56:20.291-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:56:20.306-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:56:20.306-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:56:20.318-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:56:20.317-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:56:20.330-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.422 seconds
+[2025-01-27T20:57:30.832-0300] {processor.py:186} INFO - Started process (PID=40246) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:57:30.833-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:57:30.835-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:57:30.834-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:57:31.225-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:57:31.242-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:57:31.241-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:57:31.254-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:57:31.254-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:57:31.266-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.440 seconds
+[2025-01-27T20:58:07.643-0300] {processor.py:186} INFO - Started process (PID=40494) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:07.644-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:58:07.645-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:07.645-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:08.130-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:08.145-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:08.145-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:58:08.154-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:08.153-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:58:08.165-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.531 seconds
+[2025-01-27T20:58:50.649-0300] {processor.py:186} INFO - Started process (PID=40792) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:50.649-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:58:50.650-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:50.650-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:51.050-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:58:51.063-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:51.063-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:58:51.074-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:58:51.074-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:58:51.086-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.442 seconds
+[2025-01-27T20:59:32.159-0300] {processor.py:186} INFO - Started process (PID=41022) to work on /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:59:32.160-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py for tasks to queue
+[2025-01-27T20:59:32.161-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:59:32.161-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:59:32.477-0300] {processor.py:925} INFO - DAG(s) 'InsertIntoElastic' retrieved from /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py
+[2025-01-27T20:59:32.486-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:59:32.486-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-27T20:59:32.503-0300] {logging_mixin.py:190} INFO - [2025-01-27T20:59:32.502-0300] {dag.py:4180} INFO - Setting next_dagrun for InsertIntoElastic to 2025-01-27 00:00:00+00:00, run_after=2025-01-28 00:00:00+00:00
+[2025-01-27T20:59:32.515-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGInjectPACTRATElastic.py took 0.360 seconds

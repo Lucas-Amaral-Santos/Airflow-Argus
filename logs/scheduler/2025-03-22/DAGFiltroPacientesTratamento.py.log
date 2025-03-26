@@ -1,0 +1,119 @@
+[2025-03-22T20:51:30.177-0300] {processor.py:186} INFO - Started process (PID=33492) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:51:30.178-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:51:30.182-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:51:30.181-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:51:30.563-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:51:30.574-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:51:30.574-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:51:30.598-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:51:30.597-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:51:30.612-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.445 seconds
+[2025-03-22T20:52:00.840-0300] {processor.py:186} INFO - Started process (PID=33605) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:00.841-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:52:00.844-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:00.843-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:01.205-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:01.217-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:01.217-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:52:01.229-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:01.229-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:52:01.254-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.424 seconds
+[2025-03-22T20:52:32.790-0300] {processor.py:186} INFO - Started process (PID=33804) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:32.802-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:52:32.805-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:32.804-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:33.171-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:52:33.183-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:33.182-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:52:33.195-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:52:33.194-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:52:33.219-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.440 seconds
+[2025-03-22T20:53:03.343-0300] {processor.py:186} INFO - Started process (PID=33863) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:03.355-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:53:03.358-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:03.357-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:03.650-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:03.663-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:03.663-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:53:03.678-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:03.678-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:53:03.702-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.370 seconds
+[2025-03-22T20:53:33.992-0300] {processor.py:186} INFO - Started process (PID=33922) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:34.004-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:53:34.007-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:34.006-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:34.278-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:53:34.293-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:34.292-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:53:34.306-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:53:34.306-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:53:34.332-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.350 seconds
+[2025-03-22T20:54:04.547-0300] {processor.py:186} INFO - Started process (PID=33983) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:04.559-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:54:04.562-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:04.562-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:04.858-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:04.872-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:04.872-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:54:04.886-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:04.886-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:54:04.912-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.376 seconds
+[2025-03-22T20:54:36.114-0300] {processor.py:186} INFO - Started process (PID=34042) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:36.116-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:54:36.119-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:36.118-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:36.387-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:54:36.402-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:36.402-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:54:36.417-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:54:36.417-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:54:36.443-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.339 seconds
+[2025-03-22T20:55:06.611-0300] {processor.py:186} INFO - Started process (PID=34116) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:06.612-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:55:06.614-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:06.614-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:06.950-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:06.971-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:06.971-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:55:06.985-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:06.985-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:55:07.001-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.396 seconds
+[2025-03-22T20:55:37.120-0300] {processor.py:186} INFO - Started process (PID=34208) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:37.132-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:55:37.135-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:37.134-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:37.407-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:55:37.421-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:37.421-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:55:37.435-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:55:37.435-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:55:37.460-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.351 seconds
+[2025-03-22T20:56:07.614-0300] {processor.py:186} INFO - Started process (PID=34301) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:07.614-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:56:07.617-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:07.616-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:07.987-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:08.006-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:08.006-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:56:08.022-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:08.022-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:56:08.040-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.432 seconds
+[2025-03-22T20:56:38.229-0300] {processor.py:186} INFO - Started process (PID=34363) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:38.240-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:56:38.243-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:38.243-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:38.529-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:56:38.543-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:38.543-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:56:38.558-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:56:38.558-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:56:38.583-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.366 seconds
+[2025-03-22T20:57:08.734-0300] {processor.py:186} INFO - Started process (PID=34419) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:08.746-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:57:08.750-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:08.749-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:09.048-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:09.067-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:09.067-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:57:09.085-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:09.085-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:57:09.113-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.390 seconds
+[2025-03-22T20:57:40.668-0300] {processor.py:186} INFO - Started process (PID=34488) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:40.675-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:57:40.677-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:40.676-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:40.989-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:57:41.003-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:41.003-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:57:41.018-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:57:41.018-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:57:41.045-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.382 seconds
+[2025-03-22T20:58:11.189-0300] {processor.py:186} INFO - Started process (PID=34659) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:11.200-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:58:11.204-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:11.203-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:11.486-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:11.500-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:11.500-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:58:11.515-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:11.514-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:58:11.539-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.361 seconds
+[2025-03-22T20:58:41.698-0300] {processor.py:186} INFO - Started process (PID=34827) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:41.700-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:58:41.703-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:41.702-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:41.973-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:58:41.987-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:41.987-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:58:42.001-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:58:42.001-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:58:42.027-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.339 seconds
+[2025-03-22T20:59:13.550-0300] {processor.py:186} INFO - Started process (PID=35359) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:13.551-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:59:13.553-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:13.553-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:13.843-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:13.859-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:13.858-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:59:13.874-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:13.874-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:59:13.890-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.344 seconds
+[2025-03-22T20:59:44.149-0300] {processor.py:186} INFO - Started process (PID=35456) to work on /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:44.161-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py for tasks to queue
+[2025-03-22T20:59:44.164-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:44.163-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:44.438-0300] {processor.py:925} INFO - DAG(s) 'ReadPacTrat' retrieved from /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py
+[2025-03-22T20:59:44.453-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:44.453-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-03-22T20:59:44.468-0300] {logging_mixin.py:190} INFO - [2025-03-22T20:59:44.467-0300] {dag.py:4180} INFO - Setting next_dagrun for ReadPacTrat to 2020-03-19 03:35:00+00:00, run_after=2020-03-19 03:40:00+00:00
+[2025-03-22T20:59:44.493-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py took 0.354 seconds

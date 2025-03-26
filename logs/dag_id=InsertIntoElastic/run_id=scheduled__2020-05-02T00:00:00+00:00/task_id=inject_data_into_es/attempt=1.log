@@ -1,0 +1,19 @@
+[2025-01-25T20:41:25.962-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-25T20:41:25.969-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2020-05-02T00:00:00+00:00 [queued]>
+[2025-01-25T20:41:25.977-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2020-05-02T00:00:00+00:00 [queued]>
+[2025-01-25T20:41:25.977-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-25T20:41:25.991-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): inject_data_into_es> on 2020-05-02 00:00:00+00:00
+[2025-01-25T20:41:25.995-0300] {standard_task_runner.py:72} INFO - Started process 49210 to run task
+[2025-01-25T20:41:25.998-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'InsertIntoElastic', 'inject_data_into_es', 'scheduled__2020-05-02T00:00:00+00:00', '--job-id', '3966', '--raw', '--subdir', 'DAGS_FOLDER/DAGInjectElastic.py', '--cfg-path', '/tmp/tmpto0m_ukv']
+[2025-01-25T20:41:25.999-0300] {standard_task_runner.py:105} INFO - Job 3966: Subtask inject_data_into_es
+[2025-01-25T20:41:26.028-0300] {task_command.py:467} INFO - Running <TaskInstance: InsertIntoElastic.inject_data_into_es scheduled__2020-05-02T00:00:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-01-25T20:41:26.078-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='InsertIntoElastic' AIRFLOW_CTX_TASK_ID='inject_data_into_es' AIRFLOW_CTX_EXECUTION_DATE='2020-05-02T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-05-02T00:00:00+00:00'
+[2025-01-25T20:41:26.078-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-25T20:41:26.220-0300] {_transport.py:349} INFO - GET http://localhost:9200/ [status:200 duration:0.007s]
+[2025-01-25T20:41:26.221-0300] {logging_mixin.py:190} INFO - {'name': '0886663b4c88', 'cluster_name': 'docker-cluster', 'cluster_uuid': 'bEwhnReJSKKPd9T4CyHAFg', 'version': {'number': '8.17.0', 'build_flavor': 'default', 'build_type': 'docker', 'build_hash': '2b6a7fed44faa321997703718f07ee0420804b41', 'build_date': '2024-12-11T12:08:05.663969764Z', 'build_snapshot': False, 'lucene_version': '9.12.0', 'minimum_wire_compatibility_version': '7.17.0', 'minimum_index_compatibility_version': '7.0.0'}, 'tagline': 'You Know, for Search'}
+[2025-01-25T20:41:26.221-0300] {python.py:240} INFO - Done. Returned value was: True
+[2025-01-25T20:41:26.234-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-25T20:41:26.235-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=InsertIntoElastic, task_id=inject_data_into_es, run_id=scheduled__2020-05-02T00:00:00+00:00, execution_date=20200502T000000, start_date=20250125T234125, end_date=20250125T234126
+[2025-01-25T20:41:26.290-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-25T20:41:26.307-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-25T20:41:26.308-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

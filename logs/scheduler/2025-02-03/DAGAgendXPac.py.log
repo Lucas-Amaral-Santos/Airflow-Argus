@@ -1,0 +1,651 @@
+[2025-02-02T21:03:37.790-0300] {processor.py:186} INFO - Started process (PID=12831) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:03:37.791-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:03:37.793-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:03:37.793-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:03:38.067-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:03:38.076-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:03:38.075-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:03:38.085-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:03:38.084-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:03:38.106-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.324 seconds
+[2025-02-02T21:04:16.559-0300] {processor.py:186} INFO - Started process (PID=13114) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:16.560-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:04:16.563-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:16.562-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:16.837-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:16.856-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:16.856-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:04:16.866-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:16.866-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:04:16.877-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.326 seconds
+[2025-02-02T21:04:48.552-0300] {processor.py:186} INFO - Started process (PID=13364) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:48.553-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:04:48.555-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:48.554-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:48.822-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:04:48.831-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:48.831-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:04:48.840-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:04:48.840-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:04:48.862-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.316 seconds
+[2025-02-02T21:05:20.686-0300] {processor.py:186} INFO - Started process (PID=13608) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:20.688-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:05:20.689-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:20.689-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:20.896-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:20.907-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:20.907-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:05:20.917-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:20.917-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:05:20.942-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.261 seconds
+[2025-02-02T21:05:52.080-0300] {processor.py:186} INFO - Started process (PID=13854) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:52.080-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:05:52.082-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:52.082-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:52.328-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:05:52.342-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:52.342-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:05:52.356-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:05:52.356-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:05:52.374-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.298 seconds
+[2025-02-02T21:06:23.600-0300] {processor.py:186} INFO - Started process (PID=14103) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:23.601-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:06:23.603-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:23.602-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:23.821-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:23.832-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:23.832-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:06:23.842-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:23.842-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:06:23.864-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.273 seconds
+[2025-02-02T21:06:58.059-0300] {processor.py:186} INFO - Started process (PID=14351) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:58.063-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:06:58.064-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:58.064-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:58.337-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:06:58.348-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:58.348-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:06:58.360-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:06:58.359-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:06:58.374-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.320 seconds
+[2025-02-02T21:07:31.150-0300] {processor.py:186} INFO - Started process (PID=14633) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:07:31.160-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:07:31.163-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:07:31.162-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:07:31.400-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:07:31.411-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:07:31.411-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:07:31.424-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:07:31.424-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:07:31.448-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.303 seconds
+[2025-02-02T21:08:02.567-0300] {processor.py:186} INFO - Started process (PID=14903) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:02.568-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:08:02.569-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:02.569-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:02.811-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:02.822-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:02.822-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:08:02.834-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:02.833-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:08:02.856-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.293 seconds
+[2025-02-02T21:08:34.705-0300] {processor.py:186} INFO - Started process (PID=15250) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:34.706-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:08:34.708-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:34.708-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:34.928-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:08:34.939-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:34.939-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:08:34.950-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:08:34.950-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:08:34.972-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.275 seconds
+[2025-02-02T21:09:08.572-0300] {processor.py:186} INFO - Started process (PID=15545) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:08.573-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:09:08.575-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:08.575-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:08.786-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:08.798-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:08.798-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:09:08.808-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:08.808-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:09:08.828-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.261 seconds
+[2025-02-02T21:09:41.456-0300] {processor.py:186} INFO - Started process (PID=15831) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:41.457-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:09:41.458-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:41.458-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:41.688-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:09:41.699-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:41.699-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:09:41.709-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:09:41.709-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:09:41.728-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.279 seconds
+[2025-02-02T21:10:12.066-0300] {processor.py:186} INFO - Started process (PID=16067) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:12.067-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:10:12.068-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:12.068-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:12.332-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:12.344-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:12.344-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:10:12.357-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:12.357-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:10:12.370-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.308 seconds
+[2025-02-02T21:10:43.185-0300] {processor.py:186} INFO - Started process (PID=16312) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:43.186-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:10:43.188-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:43.188-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:43.401-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:10:43.413-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:43.413-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:10:43.423-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:10:43.423-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:10:43.444-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.265 seconds
+[2025-02-02T21:11:13.917-0300] {processor.py:186} INFO - Started process (PID=16572) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:13.918-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:11:13.919-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:13.919-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:14.143-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:14.155-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:14.155-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:11:14.166-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:14.166-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:11:14.178-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.269 seconds
+[2025-02-02T21:11:44.395-0300] {processor.py:186} INFO - Started process (PID=16895) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:44.396-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:11:44.398-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:44.397-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:44.637-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:11:44.648-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:44.648-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:11:44.660-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:11:44.660-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:11:44.673-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.282 seconds
+[2025-02-02T21:12:15.306-0300] {processor.py:186} INFO - Started process (PID=17090) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:15.317-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:12:15.320-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:15.319-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:15.545-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:15.556-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:15.556-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:12:15.568-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:15.567-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:12:15.580-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.283 seconds
+[2025-02-02T21:12:48.922-0300] {processor.py:186} INFO - Started process (PID=17351) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:48.923-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:12:48.925-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:48.925-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:49.148-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:12:49.160-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:49.160-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:12:49.170-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:12:49.170-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:12:49.182-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.268 seconds
+[2025-02-02T21:13:23.761-0300] {processor.py:186} INFO - Started process (PID=17766) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:23.771-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:13:23.773-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:23.773-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:24.009-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:24.022-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:24.022-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:13:24.033-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:24.033-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:13:24.059-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.303 seconds
+[2025-02-02T21:13:54.298-0300] {processor.py:186} INFO - Started process (PID=18048) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:54.299-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:13:54.300-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:54.300-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:54.525-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:13:54.536-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:54.536-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:13:54.548-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:13:54.548-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:13:54.560-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.267 seconds
+[2025-02-02T21:14:25.375-0300] {processor.py:186} INFO - Started process (PID=18365) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:25.378-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:14:25.379-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:25.379-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:25.606-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:25.617-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:25.617-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:14:25.628-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:25.628-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:14:25.651-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.280 seconds
+[2025-02-02T21:14:58.949-0300] {processor.py:186} INFO - Started process (PID=18728) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:58.950-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:14:58.951-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:58.951-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:59.187-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:14:59.200-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:59.200-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:14:59.213-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:14:59.213-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:14:59.227-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.286 seconds
+[2025-02-02T21:15:29.722-0300] {processor.py:186} INFO - Started process (PID=19052) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:15:29.722-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:15:29.724-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:15:29.724-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:15:29.972-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:15:29.986-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:15:29.986-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:15:29.999-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:15:29.999-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:15:30.021-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.304 seconds
+[2025-02-02T21:16:01.746-0300] {processor.py:186} INFO - Started process (PID=19372) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:01.746-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:16:01.748-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:01.748-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:02.019-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:02.036-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:02.036-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:16:02.050-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:02.050-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:16:02.064-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.329 seconds
+[2025-02-02T21:16:32.999-0300] {processor.py:186} INFO - Started process (PID=19817) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:33.011-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:16:33.012-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:33.012-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:33.281-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:16:33.299-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:33.298-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:16:33.314-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:16:33.314-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:16:33.353-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.359 seconds
+[2025-02-02T21:17:03.765-0300] {processor.py:186} INFO - Started process (PID=20146) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:03.767-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:17:03.769-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:03.768-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:03.999-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:04.020-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:04.020-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:17:04.032-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:04.031-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:17:04.043-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.286 seconds
+[2025-02-02T21:17:35.623-0300] {processor.py:186} INFO - Started process (PID=20458) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:35.624-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:17:35.626-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:35.626-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:35.861-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:17:35.872-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:35.872-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:17:35.883-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:17:35.883-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:17:35.905-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.292 seconds
+[2025-02-02T21:18:09.699-0300] {processor.py:186} INFO - Started process (PID=20748) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:09.710-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:18:09.713-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:09.712-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:09.956-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:09.968-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:09.968-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:18:09.979-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:09.979-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:18:09.993-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.299 seconds
+[2025-02-02T21:18:43.171-0300] {processor.py:186} INFO - Started process (PID=21048) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:43.172-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:18:43.174-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:43.174-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:43.417-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:18:43.428-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:43.428-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:18:43.442-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:18:43.441-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:18:43.454-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.291 seconds
+[2025-02-02T21:19:13.626-0300] {processor.py:186} INFO - Started process (PID=21328) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:13.627-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:19:13.628-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:13.628-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:13.877-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:13.888-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:13.888-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:19:13.901-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:13.900-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:19:13.913-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.293 seconds
+[2025-02-02T21:19:48.246-0300] {processor.py:186} INFO - Started process (PID=21580) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:48.246-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:19:48.248-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:48.247-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:48.489-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:19:48.502-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:48.502-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:19:48.515-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:19:48.515-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:19:48.528-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.287 seconds
+[2025-02-02T21:20:18.840-0300] {processor.py:186} INFO - Started process (PID=21865) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:18.840-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:20:18.842-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:18.842-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:19.064-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:19.077-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:19.077-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:20:19.090-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:19.089-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:20:19.101-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.265 seconds
+[2025-02-02T21:20:49.930-0300] {processor.py:186} INFO - Started process (PID=22141) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:49.931-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:20:49.933-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:49.932-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:50.381-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:20:50.398-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:50.398-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:20:50.412-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:20:50.412-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:20:50.427-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.504 seconds
+[2025-02-02T21:21:21.663-0300] {processor.py:186} INFO - Started process (PID=22470) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:21.664-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:21:21.667-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:21.666-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:21.972-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:21.987-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:21.987-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:21:22.002-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:22.002-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:21:22.117-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.462 seconds
+[2025-02-02T21:21:53.689-0300] {processor.py:186} INFO - Started process (PID=22749) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:53.690-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:21:53.691-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:53.691-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:54.013-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:21:54.031-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:54.031-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:21:54.176-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:21:54.176-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:21:54.200-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.516 seconds
+[2025-02-02T21:22:31.133-0300] {processor.py:186} INFO - Started process (PID=22899) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:22:31.134-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:22:31.135-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:22:31.135-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:22:31.492-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:22:31.501-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:22:31.501-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:22:31.510-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:22:31.510-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:22:31.532-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.404 seconds
+[2025-02-02T21:23:04.022-0300] {processor.py:186} INFO - Started process (PID=23146) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:04.025-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:23:04.027-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:04.027-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:04.249-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:04.259-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:04.259-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:23:04.270-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:04.270-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:23:04.367-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.352 seconds
+[2025-02-02T21:23:36.870-0300] {processor.py:186} INFO - Started process (PID=23455) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:36.870-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:23:36.872-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:36.871-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:37.139-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:23:37.247-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:37.247-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:23:37.258-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:23:37.258-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:23:37.283-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.418 seconds
+[2025-02-02T21:24:08.410-0300] {processor.py:186} INFO - Started process (PID=23705) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:08.412-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:24:08.414-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:08.414-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:08.715-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:08.724-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:08.724-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:24:08.734-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:08.733-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:24:08.756-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.353 seconds
+[2025-02-02T21:24:39.312-0300] {processor.py:186} INFO - Started process (PID=23944) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:39.322-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:24:39.325-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:39.325-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:39.585-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:24:39.596-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:39.596-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:24:39.689-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:24:39.688-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:24:39.713-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.407 seconds
+[2025-02-02T21:25:14.483-0300] {processor.py:186} INFO - Started process (PID=24140) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:14.484-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:25:14.486-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:14.486-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:14.743-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:14.758-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:14.758-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:25:14.859-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:14.858-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:25:14.880-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.405 seconds
+[2025-02-02T21:25:47.714-0300] {processor.py:186} INFO - Started process (PID=24342) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:47.725-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:25:47.728-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:47.728-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:48.107-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:25:48.119-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:48.119-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:25:48.129-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:25:48.128-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:25:48.142-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.434 seconds
+[2025-02-02T21:26:18.528-0300] {processor.py:186} INFO - Started process (PID=24764) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:18.529-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:26:18.531-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:18.530-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:19.152-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:19.185-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:19.185-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:26:19.213-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:19.213-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:26:19.240-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.720 seconds
+[2025-02-02T21:26:50.254-0300] {processor.py:186} INFO - Started process (PID=25010) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:50.255-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:26:50.258-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:50.258-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:50.579-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:26:50.587-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:50.587-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:26:50.598-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:26:50.598-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:26:50.620-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.376 seconds
+[2025-02-02T21:27:20.806-0300] {processor.py:186} INFO - Started process (PID=25083) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:20.818-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:27:20.821-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:20.821-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:21.126-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:21.135-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:21.135-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:27:21.144-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:21.144-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:27:21.156-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.358 seconds
+[2025-02-02T21:27:48.768-0300] {processor.py:186} INFO - Started process (PID=25156) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:48.770-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:27:48.772-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:48.772-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:49.065-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:27:49.074-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:49.074-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:27:49.083-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:27:49.083-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:35:00+00:00, run_after=2020-03-19 21:40:00+00:00
+[2025-02-02T21:27:49.106-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.343 seconds
+[2025-02-02T21:28:20.695-0300] {processor.py:186} INFO - Started process (PID=25426) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:20.700-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:28:20.703-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:20.702-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:21.022-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:21.032-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:21.031-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:28:21.043-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:21.043-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 21:45:00+00:00, run_after=2020-03-19 21:50:00+00:00
+[2025-02-02T21:28:21.064-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.374 seconds
+[2025-02-02T21:28:55.067-0300] {processor.py:186} INFO - Started process (PID=25739) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:55.068-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:28:55.069-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:55.069-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:55.397-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:28:55.409-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:55.409-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:28:55.421-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:28:55.421-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 22:15:00+00:00, run_after=2020-03-19 22:20:00+00:00
+[2025-02-02T21:28:55.443-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.382 seconds
+[2025-02-02T21:29:29.629-0300] {processor.py:186} INFO - Started process (PID=26052) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:29:29.630-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:29:29.632-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:29:29.631-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:29:30.005-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:29:30.015-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:29:30.015-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:29:30.027-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:29:30.026-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 22:40:00+00:00, run_after=2020-03-19 22:45:00+00:00
+[2025-02-02T21:29:30.048-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.426 seconds
+[2025-02-02T21:30:03.497-0300] {processor.py:186} INFO - Started process (PID=26430) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:03.498-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:30:03.499-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:03.499-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:03.832-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:03.843-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:03.843-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:30:03.853-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:03.853-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:05:00+00:00, run_after=2020-03-19 23:10:00+00:00
+[2025-02-02T21:30:03.879-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.386 seconds
+[2025-02-02T21:30:33.937-0300] {processor.py:186} INFO - Started process (PID=26762) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:33.937-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:30:33.939-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:33.939-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:34.270-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:30:34.281-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:34.281-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:30:34.291-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:30:34.291-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:30:34.313-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.380 seconds
+[2025-02-02T21:31:05.182-0300] {processor.py:186} INFO - Started process (PID=26883) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:05.193-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:31:05.197-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:05.196-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:05.499-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:05.508-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:05.507-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:31:05.517-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:05.517-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:31:05.531-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.354 seconds
+[2025-02-02T21:31:35.723-0300] {processor.py:186} INFO - Started process (PID=27018) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:35.734-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:31:35.738-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:35.738-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:36.086-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:31:36.095-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:36.095-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:31:36.105-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:31:36.105-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:31:36.116-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.404 seconds
+[2025-02-02T21:32:43.762-0300] {processor.py:186} INFO - Started process (PID=27162) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:32:43.763-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:32:43.766-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:32:43.765-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:32:44.086-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:32:44.096-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:32:44.096-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:32:44.106-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:32:44.106-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:32:44.129-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.373 seconds
+[2025-02-02T21:34:58.354-0300] {processor.py:186} INFO - Started process (PID=27313) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:34:58.354-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:34:58.356-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:34:58.355-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:34:58.907-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:34:58.917-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:34:58.917-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:34:58.926-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:34:58.925-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:34:58.937-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.587 seconds
+[2025-02-02T21:39:29.524-0300] {processor.py:186} INFO - Started process (PID=27587) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:39:29.525-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:39:29.526-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:39:29.525-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:39:29.885-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:39:29.895-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:39:29.895-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:39:29.904-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:39:29.904-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:39:29.916-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.395 seconds
+[2025-02-02T21:40:33.528-0300] {processor.py:186} INFO - Started process (PID=27667) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:40:33.528-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:40:33.529-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:40:33.529-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:40:33.914-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:40:33.925-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:40:33.924-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:40:33.932-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:40:33.932-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:40:33.954-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.430 seconds
+[2025-02-02T21:44:11.858-0300] {processor.py:186} INFO - Started process (PID=28089) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:44:11.859-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:44:11.859-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:44:11.859-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:44:12.252-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:44:12.262-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:44:12.262-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:44:12.273-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:44:12.273-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:44:12.285-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.430 seconds
+[2025-02-02T21:45:30.934-0300] {processor.py:186} INFO - Started process (PID=28244) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:45:30.945-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:45:30.946-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:45:30.946-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:45:31.290-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:45:31.300-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:45:31.300-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:45:31.309-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:45:31.309-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:45:31.330-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.400 seconds
+[2025-02-02T21:46:02.182-0300] {processor.py:186} INFO - Started process (PID=28314) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:02.191-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:46:02.193-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:02.192-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:02.491-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:02.500-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:02.500-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:46:02.507-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:02.507-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:46:02.529-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.351 seconds
+[2025-02-02T21:46:32.814-0300] {processor.py:186} INFO - Started process (PID=28473) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:32.825-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:46:32.827-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:32.826-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:33.129-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:46:33.139-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:33.139-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:46:33.147-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:46:33.147-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:46:33.168-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.363 seconds
+[2025-02-02T21:47:03.349-0300] {processor.py:186} INFO - Started process (PID=28543) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:03.360-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:47:03.363-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:03.362-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:03.585-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:03.597-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:03.596-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:47:03.605-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:03.605-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:47:03.627-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.288 seconds
+[2025-02-02T21:47:33.964-0300] {processor.py:186} INFO - Started process (PID=28614) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:33.976-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:47:33.978-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:33.977-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:34.181-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:47:34.191-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:34.191-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:47:34.201-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:47:34.200-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:47:34.222-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.265 seconds
+[2025-02-02T21:48:04.615-0300] {processor.py:186} INFO - Started process (PID=28683) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:04.626-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:48:04.628-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:04.627-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:04.883-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:04.896-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:04.896-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:48:04.906-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:04.906-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:48:04.919-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.308 seconds
+[2025-02-02T21:48:35.272-0300] {processor.py:186} INFO - Started process (PID=28761) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:35.283-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:48:35.284-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:35.284-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:35.498-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:48:35.510-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:35.510-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:48:35.520-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:48:35.519-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:48:35.542-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.275 seconds
+[2025-02-02T21:49:05.837-0300] {processor.py:186} INFO - Started process (PID=28830) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:05.848-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:49:05.849-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:05.849-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:06.111-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:06.123-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:06.123-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:49:06.133-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:06.133-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:49:06.144-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.311 seconds
+[2025-02-02T21:49:36.358-0300] {processor.py:186} INFO - Started process (PID=28904) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:36.359-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:49:36.360-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:36.360-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:36.575-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:49:36.586-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:36.586-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:49:36.596-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:49:36.596-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:49:36.618-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.264 seconds
+[2025-02-02T21:50:07.002-0300] {processor.py:186} INFO - Started process (PID=28974) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:07.013-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:50:07.014-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:07.014-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:07.232-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:07.243-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:07.243-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:50:07.253-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:07.253-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:50:07.274-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.276 seconds
+[2025-02-02T21:50:37.661-0300] {processor.py:186} INFO - Started process (PID=29052) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:37.672-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:50:37.673-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:37.672-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:37.952-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:50:37.963-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:37.963-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:50:37.971-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:50:37.971-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:50:37.983-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.327 seconds
+[2025-02-02T21:51:08.342-0300] {processor.py:186} INFO - Started process (PID=29125) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:08.353-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:51:08.354-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:08.354-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:08.611-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:08.624-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:08.624-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:51:08.635-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:08.635-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:51:08.659-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.321 seconds
+[2025-02-02T21:51:38.960-0300] {processor.py:186} INFO - Started process (PID=29198) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:38.970-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:51:38.971-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:38.971-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:39.233-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:51:39.247-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:39.247-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:51:39.258-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:51:39.258-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:51:39.271-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.315 seconds
+[2025-02-02T21:52:09.531-0300] {processor.py:186} INFO - Started process (PID=29268) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:09.533-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:52:09.534-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:09.533-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:09.739-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:09.750-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:09.749-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:52:09.759-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:09.759-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:52:09.780-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.256 seconds
+[2025-02-02T21:52:40.198-0300] {processor.py:186} INFO - Started process (PID=29342) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:40.210-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:52:40.212-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:40.211-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:40.428-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:52:40.441-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:40.441-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:52:40.450-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:52:40.450-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:52:40.472-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.280 seconds
+[2025-02-02T21:53:10.864-0300] {processor.py:186} INFO - Started process (PID=29414) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:10.875-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:53:10.877-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:10.876-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:11.093-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:11.105-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:11.105-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:53:11.115-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:11.115-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:53:11.140-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.281 seconds
+[2025-02-02T21:53:41.552-0300] {processor.py:186} INFO - Started process (PID=29483) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:41.563-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:53:41.564-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:41.564-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:41.764-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:53:41.775-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:41.775-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:53:41.785-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:53:41.784-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:53:41.806-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.261 seconds
+[2025-02-02T21:54:12.272-0300] {processor.py:186} INFO - Started process (PID=29546) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:12.273-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:54:12.273-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:12.273-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:12.472-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:12.483-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:12.483-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:54:12.492-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:12.491-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:54:12.503-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.235 seconds
+[2025-02-02T21:54:42.875-0300] {processor.py:186} INFO - Started process (PID=29611) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:42.886-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:54:42.888-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:42.887-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:43.092-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:54:43.103-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:43.103-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:54:43.113-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:54:43.112-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:54:43.134-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.264 seconds
+[2025-02-02T21:55:13.421-0300] {processor.py:186} INFO - Started process (PID=29698) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:13.432-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:55:13.434-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:13.433-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:13.637-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:13.648-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:13.648-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:55:13.656-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:13.656-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:55:13.678-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.262 seconds
+[2025-02-02T21:55:44.027-0300] {processor.py:186} INFO - Started process (PID=29764) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:44.039-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:55:44.041-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:44.040-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:44.260-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:55:44.271-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:44.271-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:55:44.280-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:55:44.279-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:55:44.302-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.279 seconds
+[2025-02-02T21:56:15.005-0300] {processor.py:186} INFO - Started process (PID=29836) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:15.010-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:56:15.012-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:15.011-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:15.212-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:15.224-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:15.224-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:56:15.232-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:15.232-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:56:15.254-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.254 seconds
+[2025-02-02T21:56:45.357-0300] {processor.py:186} INFO - Started process (PID=29906) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:45.368-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:56:45.370-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:45.369-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:45.573-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:56:45.584-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:45.584-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:56:45.592-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:56:45.592-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:56:45.614-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.262 seconds
+[2025-02-02T21:57:15.780-0300] {processor.py:186} INFO - Started process (PID=29982) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:15.781-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:57:15.781-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:15.781-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:15.988-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:15.999-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:15.998-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:57:16.008-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:16.008-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:57:16.029-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.254 seconds
+[2025-02-02T21:57:46.200-0300] {processor.py:186} INFO - Started process (PID=30047) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:46.206-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:57:46.207-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:46.207-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:46.414-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:57:46.425-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:46.425-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:57:46.433-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:57:46.433-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:57:46.455-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.260 seconds
+[2025-02-02T21:58:16.715-0300] {processor.py:186} INFO - Started process (PID=30118) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:16.726-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:58:16.729-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:16.728-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:16.930-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:16.940-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:16.940-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:58:16.950-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:16.949-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:58:16.971-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.259 seconds
+[2025-02-02T21:58:47.985-0300] {processor.py:186} INFO - Started process (PID=30188) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:47.996-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:58:47.998-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:47.998-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:48.201-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:58:48.212-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:48.212-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:58:48.221-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:58:48.220-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:58:48.242-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.262 seconds
+[2025-02-02T21:59:18.402-0300] {processor.py:186} INFO - Started process (PID=30259) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:18.412-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:59:18.413-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:18.413-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:18.677-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:18.689-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:18.689-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:59:18.699-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:18.699-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:59:18.722-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.326 seconds
+[2025-02-02T21:59:48.904-0300] {processor.py:186} INFO - Started process (PID=30328) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:48.915-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T21:59:48.916-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:48.916-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:49.155-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T21:59:49.166-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:49.166-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T21:59:49.177-0300] {logging_mixin.py:190} INFO - [2025-02-02T21:59:49.176-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T21:59:49.199-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.299 seconds
+[2025-02-02T22:00:19.326-0300] {processor.py:186} INFO - Started process (PID=30400) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T22:00:19.337-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-02T22:00:19.338-0300] {logging_mixin.py:190} INFO - [2025-02-02T22:00:19.337-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T22:00:19.578-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-02T22:00:19.590-0300] {logging_mixin.py:190} INFO - [2025-02-02T22:00:19.589-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-02T22:00:19.599-0300] {logging_mixin.py:190} INFO - [2025-02-02T22:00:19.599-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-02T22:00:19.622-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.300 seconds
+[2025-02-03T08:45:33.604-0300] {processor.py:186} INFO - Started process (PID=30680) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:45:33.604-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-03T08:45:33.605-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:45:33.605-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:45:34.002-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:45:34.020-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:45:34.019-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-03T08:45:34.037-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:45:34.036-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-03T08:45:34.054-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.454 seconds
+[2025-02-03T08:46:04.888-0300] {processor.py:186} INFO - Started process (PID=31831) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:04.890-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-03T08:46:04.893-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:04.891-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:05.457-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:05.497-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:05.497-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-03T08:46:05.520-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:05.520-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-03T08:46:05.546-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.674 seconds
+[2025-02-03T08:46:35.823-0300] {processor.py:186} INFO - Started process (PID=31942) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:35.824-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-03T08:46:35.827-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:35.825-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:36.326-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:46:36.353-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:36.353-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-03T08:46:36.369-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:46:36.369-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-03T08:46:36.393-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.577 seconds
+[2025-02-03T08:47:06.503-0300] {processor.py:186} INFO - Started process (PID=32016) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:06.504-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-03T08:47:06.508-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:06.505-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:07.057-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:07.102-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:07.102-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-03T08:47:07.125-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:07.124-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-03T08:47:07.150-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 0.663 seconds
+[2025-02-03T08:47:37.922-0300] {processor.py:186} INFO - Started process (PID=32172) to work on /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:37.924-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGAgendXPac.py for tasks to queue
+[2025-02-03T08:47:37.928-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:37.925-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:38.895-0300] {processor.py:925} INFO - DAG(s) 'MergePacTratAgeng' retrieved from /home/lucas/airflow/dags/DAGAgendXPac.py
+[2025-02-03T08:47:38.967-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:38.965-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-02-03T08:47:38.996-0300] {logging_mixin.py:190} INFO - [2025-02-03T08:47:38.996-0300] {dag.py:4180} INFO - Setting next_dagrun for MergePacTratAgeng to 2020-03-19 23:20:00+00:00, run_after=2020-03-19 23:25:00+00:00
+[2025-02-03T08:47:39.039-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGAgendXPac.py took 1.130 seconds

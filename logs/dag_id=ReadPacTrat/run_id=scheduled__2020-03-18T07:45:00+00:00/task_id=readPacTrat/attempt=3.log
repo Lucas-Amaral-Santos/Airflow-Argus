@@ -1,0 +1,26 @@
+[2025-01-24T10:12:10.606-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-24T10:12:10.612-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ReadPacTrat.readPacTrat scheduled__2020-03-18T07:45:00+00:00 [queued]>
+[2025-01-24T10:12:10.618-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ReadPacTrat.readPacTrat scheduled__2020-03-18T07:45:00+00:00 [queued]>
+[2025-01-24T10:12:10.618-0300] {taskinstance.py:2866} INFO - Starting attempt 3 of 4
+[2025-01-24T10:12:10.628-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): readPacTrat> on 2020-03-18 07:45:00+00:00
+[2025-01-24T10:12:10.632-0300] {standard_task_runner.py:72} INFO - Started process 31444 to run task
+[2025-01-24T10:12:10.634-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ReadPacTrat', 'readPacTrat', 'scheduled__2020-03-18T07:45:00+00:00', '--job-id', '835', '--raw', '--subdir', 'DAGS_FOLDER/DAGFiltroPacientesTratamento.py', '--cfg-path', '/tmp/tmpu5hes74f']
+[2025-01-24T10:12:10.634-0300] {standard_task_runner.py:105} INFO - Job 835: Subtask readPacTrat
+[2025-01-24T10:12:10.655-0300] {task_command.py:467} INFO - Running <TaskInstance: ReadPacTrat.readPacTrat scheduled__2020-03-18T07:45:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-01-24T10:12:10.761-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='ReadPacTrat' AIRFLOW_CTX_TASK_ID='readPacTrat' AIRFLOW_CTX_EXECUTION_DATE='2020-03-18T07:45:00+00:00' AIRFLOW_CTX_TRY_NUMBER='3' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-18T07:45:00+00:00'
+[2025-01-24T10:12:10.761-0300] {logging_mixin.py:190} INFO - Task instance is in running state
+[2025-01-24T10:12:10.762-0300] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2025-01-24T10:12:10.762-0300] {logging_mixin.py:190} INFO - Current task name:readPacTrat state:running start_date:2025-01-24 13:12:10.612889+00:00
+[2025-01-24T10:12:10.762-0300] {logging_mixin.py:190} INFO - Dag name:ReadPacTrat and current dag run status:running
+[2025-01-24T10:12:10.762-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-24T10:12:10.816-0300] {logging_mixin.py:190} WARNING - /home/lucas/airflow/dags/DAGFiltroPacientesTratamento.py:9 DtypeWarning: Columns (8,34) have mixed types. Specify dtype option on import or set low_memory=False.
+[2025-01-24T10:12:10.983-0300] {python.py:240} INFO - Done. Returned value was: None
+[2025-01-24T10:12:10.986-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-24T10:12:10.986-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ReadPacTrat, task_id=readPacTrat, run_id=scheduled__2020-03-18T07:45:00+00:00, execution_date=20200318T074500, start_date=20250124T131210, end_date=20250124T131210
+[2025-01-24T10:12:10.993-0300] {logging_mixin.py:190} INFO - Task instance in success state
+[2025-01-24T10:12:10.993-0300] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2025-01-24T10:12:10.993-0300] {logging_mixin.py:190} INFO - Dag name:ReadPacTrat queued_at:2025-01-24 13:10:38.525651+00:00
+[2025-01-24T10:12:10.993-0300] {logging_mixin.py:190} INFO - Task hostname:lucas-Aspire-A514-54 operator:PythonOperator
+[2025-01-24T10:12:11.006-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-24T10:12:11.012-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-01-24T10:12:11.012-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

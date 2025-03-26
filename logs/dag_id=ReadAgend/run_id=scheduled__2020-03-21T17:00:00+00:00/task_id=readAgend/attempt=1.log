@@ -1,0 +1,30 @@
+[2025-03-23T18:40:08.581-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-23T18:40:08.587-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T17:00:00+00:00 [queued]>
+[2025-03-23T18:40:08.591-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T17:00:00+00:00 [queued]>
+[2025-03-23T18:40:08.591-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-03-23T18:40:08.601-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): readAgend> on 2020-03-21 17:00:00+00:00
+[2025-03-23T18:40:08.604-0300] {standard_task_runner.py:72} INFO - Started process 5524 to run task
+[2025-03-23T18:40:08.606-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ReadAgend', 'readAgend', 'scheduled__2020-03-21T17:00:00+00:00', '--job-id', '8935', '--raw', '--subdir', 'DAGS_FOLDER/DAGFiltroPacientesAgendamento.py', '--cfg-path', '/tmp/tmp2di1tfjd']
+[2025-03-23T18:40:08.607-0300] {standard_task_runner.py:105} INFO - Job 8935: Subtask readAgend
+[2025-03-23T18:40:08.630-0300] {task_command.py:467} INFO - Running <TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T17:00:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-03-23T18:40:08.670-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='ReadAgend' AIRFLOW_CTX_TASK_ID='readAgend' AIRFLOW_CTX_EXECUTION_DATE='2020-03-21T17:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-21T17:00:00+00:00'
+[2025-03-23T18:40:08.670-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-03-23T18:40:09.420-0300] {logging_mixin.py:190} WARNING - /home/lucas/airflow/dags/DAGFiltroPacientesAgendamento.py:47 FutureWarning: ChainedAssignmentError: behaviour will change in pandas 3.0!
+You are setting values through chained assignment. Currently this works in certain cases, but when using Copy-on-Write (which will become the default behaviour in pandas 3.0) this will never work to update the original DataFrame or Series, because the intermediate object on which we are setting values will behave as a copy.
+A typical example is when you are setting values in a column of a DataFrame, like:
+
+df["col"][row_indexer] = value
+
+Use `df.loc[row_indexer, "col"] = values` instead, to perform the assignment in a single step and ensure this keeps updating the original `df`.
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2025-03-23T18:40:09.421-0300] {logging_mixin.py:190} WARNING - /home/lucas/airflow/dags/DAGFiltroPacientesAgendamento.py:47 SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+[2025-03-23T18:40:09.596-0300] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-23T18:40:09.598-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-03-23T18:40:09.599-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ReadAgend, task_id=readAgend, run_id=scheduled__2020-03-21T17:00:00+00:00, execution_date=20200321T170000, start_date=20250323T214008, end_date=20250323T214009
+[2025-03-23T18:40:09.622-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-23T18:40:09.628-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-23T18:40:09.628-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

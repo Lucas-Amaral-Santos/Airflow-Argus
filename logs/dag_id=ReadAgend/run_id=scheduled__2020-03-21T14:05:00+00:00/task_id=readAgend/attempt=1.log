@@ -1,0 +1,17 @@
+[2025-03-22T21:59:19.556-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-03-22T21:59:19.562-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T14:05:00+00:00 [queued]>
+[2025-03-22T21:59:19.567-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T14:05:00+00:00 [queued]>
+[2025-03-22T21:59:19.567-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-03-22T21:59:19.579-0300] {taskinstance.py:2889} INFO - Executing <Task(PythonOperator): readAgend> on 2020-03-21 14:05:00+00:00
+[2025-03-22T21:59:19.583-0300] {standard_task_runner.py:72} INFO - Started process 11325 to run task
+[2025-03-22T21:59:19.585-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ReadAgend', 'readAgend', 'scheduled__2020-03-21T14:05:00+00:00', '--job-id', '8825', '--raw', '--subdir', 'DAGS_FOLDER/DAGFiltroPacientesAgendamento.py', '--cfg-path', '/tmp/tmpdw402hcb']
+[2025-03-22T21:59:19.586-0300] {standard_task_runner.py:105} INFO - Job 8825: Subtask readAgend
+[2025-03-22T21:59:19.621-0300] {task_command.py:467} INFO - Running <TaskInstance: ReadAgend.readAgend scheduled__2020-03-21T14:05:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-03-22T21:59:19.683-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='ReadAgend' AIRFLOW_CTX_TASK_ID='readAgend' AIRFLOW_CTX_EXECUTION_DATE='2020-03-21T14:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-21T14:05:00+00:00'
+[2025-03-22T21:59:19.684-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-03-22T21:59:20.642-0300] {python.py:240} INFO - Done. Returned value was: None
+[2025-03-22T21:59:20.646-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-03-22T21:59:20.646-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ReadAgend, task_id=readAgend, run_id=scheduled__2020-03-21T14:05:00+00:00, execution_date=20200321T140500, start_date=20250323T005919, end_date=20250323T005920
+[2025-03-22T21:59:20.680-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-03-22T21:59:20.693-0300] {taskinstance.py:3895} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-03-22T21:59:20.694-0300] {local_task_job_runner.py:245} INFO - ::endgroup::

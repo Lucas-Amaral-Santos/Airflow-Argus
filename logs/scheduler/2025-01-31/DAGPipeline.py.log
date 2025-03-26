@@ -1,0 +1,1239 @@
+[2025-01-31T12:49:40.978-0300] {processor.py:186} INFO - Started process (PID=3808) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:49:40.978-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:49:40.979-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:49:40.979-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:49:41.431-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:49:41.443-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:49:41.443-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:49:41.454-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:49:41.454-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:49:41.467-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.493 seconds
+[2025-01-31T12:50:12.133-0300] {processor.py:186} INFO - Started process (PID=4078) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:12.134-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:50:12.135-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:12.134-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:12.391-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:12.400-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:12.400-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:50:12.410-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:12.409-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:50:12.430-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.301 seconds
+[2025-01-31T12:50:42.763-0300] {processor.py:186} INFO - Started process (PID=4275) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:42.774-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:50:42.776-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:42.776-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:43.036-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:50:43.047-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:43.047-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:50:43.056-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:50:43.056-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:50:43.077-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.318 seconds
+[2025-01-31T12:51:13.508-0300] {processor.py:186} INFO - Started process (PID=6170) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:13.519-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:51:13.522-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:13.521-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:13.794-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:13.805-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:13.804-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:51:13.814-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:13.814-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:51:13.838-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.334 seconds
+[2025-01-31T12:51:44.116-0300] {processor.py:186} INFO - Started process (PID=6477) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:44.117-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:51:44.118-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:44.118-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:44.319-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:51:44.332-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:44.332-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:51:44.344-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:51:44.344-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:51:44.356-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.244 seconds
+[2025-01-31T12:52:15.460-0300] {processor.py:186} INFO - Started process (PID=7370) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:15.470-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:52:15.474-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:15.473-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:15.676-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:15.688-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:15.688-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:52:15.699-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:15.699-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:52:15.722-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.266 seconds
+[2025-01-31T12:52:46.484-0300] {processor.py:186} INFO - Started process (PID=7598) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:46.495-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:52:46.497-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:46.497-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:46.697-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:52:46.709-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:46.709-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:52:46.719-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:52:46.719-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:52:46.741-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.261 seconds
+[2025-01-31T12:53:16.993-0300] {processor.py:186} INFO - Started process (PID=7904) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:16.994-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:53:16.995-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:16.995-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:17.219-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:17.235-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:17.234-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:53:17.246-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:17.246-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:53:17.258-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.269 seconds
+[2025-01-31T12:53:47.373-0300] {processor.py:186} INFO - Started process (PID=8083) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:47.374-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:53:47.375-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:47.375-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:47.596-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:53:47.619-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:47.619-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:53:47.629-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:53:47.629-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:53:47.643-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.274 seconds
+[2025-01-31T12:54:17.802-0300] {processor.py:186} INFO - Started process (PID=8194) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:17.832-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:54:17.836-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:17.835-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:18.049-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:18.061-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:18.061-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:54:18.073-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:18.073-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:54:18.096-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.298 seconds
+[2025-01-31T12:54:48.228-0300] {processor.py:186} INFO - Started process (PID=8264) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:48.239-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:54:48.242-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:48.242-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:48.446-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:54:48.458-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:48.458-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:54:48.468-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:54:48.468-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:54:48.491-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.268 seconds
+[2025-01-31T12:55:18.660-0300] {processor.py:186} INFO - Started process (PID=8337) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:18.671-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:55:18.674-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:18.673-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:18.880-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:18.892-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:18.892-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:55:18.903-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:18.903-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:55:18.926-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.271 seconds
+[2025-01-31T12:55:49.999-0300] {processor.py:186} INFO - Started process (PID=8451) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:50.000-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:55:50.001-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:50.001-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:50.219-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:55:50.230-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:50.230-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:55:50.240-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:55:50.240-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:55:50.262-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.267 seconds
+[2025-01-31T12:56:20.425-0300] {processor.py:186} INFO - Started process (PID=8725) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:20.435-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:56:20.438-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:20.438-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:20.641-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:20.654-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:20.654-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:56:20.666-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:20.666-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:56:20.688-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.268 seconds
+[2025-01-31T12:56:50.828-0300] {processor.py:186} INFO - Started process (PID=8894) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:50.839-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:56:50.843-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:50.842-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:51.066-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:56:51.078-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:51.078-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:56:51.088-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:56:51.088-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:56:51.110-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.287 seconds
+[2025-01-31T12:57:21.225-0300] {processor.py:186} INFO - Started process (PID=9274) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:21.235-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:57:21.237-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:21.237-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:21.540-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:21.560-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:21.560-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:57:21.577-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:21.577-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:57:21.598-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.378 seconds
+[2025-01-31T12:57:51.775-0300] {processor.py:186} INFO - Started process (PID=9530) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:51.776-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:57:51.792-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:51.792-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:52.259-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:57:52.304-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:52.304-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:57:52.342-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:57:52.342-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:57:52.366-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.626 seconds
+[2025-01-31T12:58:23.119-0300] {processor.py:186} INFO - Started process (PID=9675) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:23.130-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:58:23.134-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:23.134-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:23.367-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:23.381-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:23.381-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:58:23.393-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:23.393-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:58:23.408-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.294 seconds
+[2025-01-31T12:58:53.677-0300] {processor.py:186} INFO - Started process (PID=9739) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:53.681-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:58:53.684-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:53.683-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:53.888-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:58:53.900-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:53.900-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:58:53.911-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:58:53.911-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:58:53.933-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.262 seconds
+[2025-01-31T12:59:23.999-0300] {processor.py:186} INFO - Started process (PID=9809) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:24.010-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:59:24.014-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:24.014-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:24.219-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:24.231-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:24.231-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:59:24.242-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:24.242-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:59:24.263-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.269 seconds
+[2025-01-31T12:59:54.564-0300] {processor.py:186} INFO - Started process (PID=10073) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:54.565-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T12:59:54.566-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:54.566-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:54.829-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T12:59:54.841-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:54.841-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T12:59:54.851-0300] {logging_mixin.py:190} INFO - [2025-01-31T12:59:54.851-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T12:59:54.864-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.306 seconds
+[2025-01-31T13:00:25.106-0300] {processor.py:186} INFO - Started process (PID=10176) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:25.117-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:00:25.121-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:25.120-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:25.349-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:25.362-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:25.361-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:00:25.373-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:25.373-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:00:25.395-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.295 seconds
+[2025-01-31T13:00:55.568-0300] {processor.py:186} INFO - Started process (PID=10267) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:55.573-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:00:55.577-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:55.576-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:55.781-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:00:55.792-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:55.792-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:00:55.803-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:00:55.802-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:00:55.825-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.261 seconds
+[2025-01-31T13:01:26.512-0300] {processor.py:186} INFO - Started process (PID=10348) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:26.522-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:01:26.525-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:26.524-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:26.748-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:26.760-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:26.760-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:01:26.853-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:26.852-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:01:26.864-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.357 seconds
+[2025-01-31T13:01:57.034-0300] {processor.py:186} INFO - Started process (PID=10549) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:57.035-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:01:57.037-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:57.037-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:57.265-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:01:57.280-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:57.280-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:01:57.292-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:01:57.292-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:01:57.317-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.287 seconds
+[2025-01-31T13:02:28.215-0300] {processor.py:186} INFO - Started process (PID=10732) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:28.216-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:02:28.219-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:28.218-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:28.449-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:28.463-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:28.463-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:02:28.475-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:28.475-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:02:28.574-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.363 seconds
+[2025-01-31T13:02:59.315-0300] {processor.py:186} INFO - Started process (PID=11000) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:59.326-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:02:59.329-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:59.328-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:59.606-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:02:59.630-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:59.630-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:02:59.742-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:02:59.742-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:02:59.767-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.457 seconds
+[2025-01-31T13:03:30.410-0300] {processor.py:186} INFO - Started process (PID=11149) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:03:30.411-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:03:30.412-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:03:30.412-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:03:30.617-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:03:30.629-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:03:30.629-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:03:30.640-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:03:30.640-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:03:30.663-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.257 seconds
+[2025-01-31T13:04:01.429-0300] {processor.py:186} INFO - Started process (PID=11220) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:01.441-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:04:01.444-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:01.444-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:01.658-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:01.671-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:01.671-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:04:01.762-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:01.762-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:04:01.784-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.360 seconds
+[2025-01-31T13:04:32.183-0300] {processor.py:186} INFO - Started process (PID=11430) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:32.194-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:04:32.198-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:32.198-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:32.404-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:04:32.417-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:32.417-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:04:32.428-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:04:32.428-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:04:32.449-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.271 seconds
+[2025-01-31T13:05:02.806-0300] {processor.py:186} INFO - Started process (PID=11498) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:02.817-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:05:02.821-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:02.820-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:03.030-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:03.042-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:03.042-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:05:03.053-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:03.053-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:05:03.143-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.342 seconds
+[2025-01-31T13:05:33.528-0300] {processor.py:186} INFO - Started process (PID=11578) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:33.529-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:05:33.531-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:33.530-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:33.742-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:05:33.851-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:33.851-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:05:33.870-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:05:33.869-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:05:33.885-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.363 seconds
+[2025-01-31T13:06:04.459-0300] {processor.py:186} INFO - Started process (PID=12534) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:04.459-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:06:04.461-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:04.461-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:04.708-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:04.720-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:04.720-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:06:04.731-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:04.731-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:06:04.744-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.291 seconds
+[2025-01-31T13:06:35.397-0300] {processor.py:186} INFO - Started process (PID=12631) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:35.409-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:06:35.412-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:35.412-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:35.650-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:06:35.663-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:35.662-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:06:35.675-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:06:35.674-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:06:35.770-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.378 seconds
+[2025-01-31T13:07:06.616-0300] {processor.py:186} INFO - Started process (PID=12698) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:06.617-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:07:06.619-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:06.619-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:06.826-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:06.839-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:06.839-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:07:06.933-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:06.933-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:07:06.945-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.336 seconds
+[2025-01-31T13:07:37.363-0300] {processor.py:186} INFO - Started process (PID=12786) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:37.374-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:07:37.378-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:37.378-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:37.672-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:07:37.682-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:37.682-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:07:37.691-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:07:37.691-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:07:37.702-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.344 seconds
+[2025-01-31T13:08:07.911-0300] {processor.py:186} INFO - Started process (PID=12888) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:07.912-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:08:07.916-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:07.915-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:08.159-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:08.171-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:08.171-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:08:08.269-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:08.268-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:08:08.279-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.387 seconds
+[2025-01-31T13:08:38.454-0300] {processor.py:186} INFO - Started process (PID=13048) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:38.455-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:08:38.457-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:38.457-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:38.859-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:08:38.875-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:38.875-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:08:38.885-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:08:38.885-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:08:38.898-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.457 seconds
+[2025-01-31T13:09:09.097-0300] {processor.py:186} INFO - Started process (PID=13560) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:09.098-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:09:09.100-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:09.100-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:09.435-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:09.450-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:09.450-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:09:09.462-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:09.462-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:09:09.476-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.385 seconds
+[2025-01-31T13:09:40.035-0300] {processor.py:186} INFO - Started process (PID=13636) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:40.036-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:09:40.037-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:40.037-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:40.379-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:09:40.392-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:40.391-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:09:40.404-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:09:40.404-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:09:40.417-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.388 seconds
+[2025-01-31T13:10:38.644-0300] {processor.py:186} INFO - Started process (PID=13789) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:10:38.646-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:10:38.648-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:10:38.648-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:10:38.941-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:10:38.964-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:10:38.964-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:10:38.973-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:10:38.973-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:10:38.985-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.348 seconds
+[2025-01-31T13:11:09.340-0300] {processor.py:186} INFO - Started process (PID=13857) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:09.345-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:11:09.348-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:09.347-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:09.651-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:09.661-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:09.661-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:11:09.670-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:09.670-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:11:09.692-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.358 seconds
+[2025-01-31T13:11:40.618-0300] {processor.py:186} INFO - Started process (PID=13946) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:40.620-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:11:40.628-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:40.627-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:40.957-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:11:40.969-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:40.969-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:11:40.980-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:11:40.980-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:11:40.993-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.403 seconds
+[2025-01-31T13:12:11.569-0300] {processor.py:186} INFO - Started process (PID=14014) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:11.570-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:12:11.573-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:11.573-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:11.993-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:12.004-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:12.004-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:12:12.013-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:12.013-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:12:12.037-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.476 seconds
+[2025-01-31T13:12:43.038-0300] {processor.py:186} INFO - Started process (PID=14365) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:43.039-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:12:43.040-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:43.040-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:43.591-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:12:43.612-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:43.612-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:12:43.634-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:12:43.634-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:12:43.655-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.627 seconds
+[2025-01-31T13:13:13.868-0300] {processor.py:186} INFO - Started process (PID=14439) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:13.870-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:13:13.872-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:13.872-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:14.740-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:14.801-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:14.798-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:13:14.849-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:14.848-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:13:14.890-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 1.033 seconds
+[2025-01-31T13:13:45.086-0300] {processor.py:186} INFO - Started process (PID=14548) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:45.088-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:13:45.091-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:45.089-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:45.834-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:13:45.862-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:45.862-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:13:45.892-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:13:45.892-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:13:45.919-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.844 seconds
+[2025-01-31T13:14:16.070-0300] {processor.py:186} INFO - Started process (PID=14615) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:16.071-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:14:16.073-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:16.073-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:16.381-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:16.399-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:16.398-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:14:16.415-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:16.415-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:14:16.431-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.365 seconds
+[2025-01-31T13:14:46.579-0300] {processor.py:186} INFO - Started process (PID=14689) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:46.590-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:14:46.594-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:46.593-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:46.925-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:14:46.939-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:46.939-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:14:46.957-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:14:46.957-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:14:46.970-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.396 seconds
+[2025-01-31T13:15:18.190-0300] {processor.py:186} INFO - Started process (PID=14782) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:18.191-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:15:18.194-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:18.193-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:18.515-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:18.526-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:18.526-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:15:18.537-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:18.537-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:15:18.548-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.366 seconds
+[2025-01-31T13:15:49.083-0300] {processor.py:186} INFO - Started process (PID=14982) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:49.084-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:15:49.086-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:49.086-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:49.484-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:15:49.495-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:49.495-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:15:49.505-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:15:49.504-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:15:49.517-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.444 seconds
+[2025-01-31T13:16:19.837-0300] {processor.py:186} INFO - Started process (PID=15058) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:19.838-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:16:19.839-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:19.839-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:20.168-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:20.186-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:20.186-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:16:20.202-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:20.202-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:16:20.217-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.384 seconds
+[2025-01-31T13:16:50.507-0300] {processor.py:186} INFO - Started process (PID=15136) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:50.508-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:16:50.509-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:50.509-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:50.845-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:16:50.855-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:50.855-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:16:50.865-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:16:50.865-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:16:50.877-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.377 seconds
+[2025-01-31T13:17:21.338-0300] {processor.py:186} INFO - Started process (PID=15302) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:21.339-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:17:21.341-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:21.340-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:21.994-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:22.021-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:22.020-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:17:22.049-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:22.048-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:17:22.069-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.739 seconds
+[2025-01-31T13:17:52.468-0300] {processor.py:186} INFO - Started process (PID=15559) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:52.469-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:17:52.470-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:52.470-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:52.801-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:17:52.814-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:52.814-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:17:52.826-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:17:52.826-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:17:52.838-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.376 seconds
+[2025-01-31T13:18:22.892-0300] {processor.py:186} INFO - Started process (PID=15657) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:22.893-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:18:22.895-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:22.895-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:23.256-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:23.274-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:23.274-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:18:23.287-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:23.287-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:18:23.302-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.416 seconds
+[2025-01-31T13:18:53.940-0300] {processor.py:186} INFO - Started process (PID=15734) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:53.941-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:18:53.943-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:53.943-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:54.283-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:18:54.295-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:54.294-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:18:54.306-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:18:54.306-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:18:54.318-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.386 seconds
+[2025-01-31T13:19:24.833-0300] {processor.py:186} INFO - Started process (PID=15809) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:24.844-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:19:24.848-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:24.847-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:25.132-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:25.142-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:25.142-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:19:25.151-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:25.150-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:19:25.173-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.345 seconds
+[2025-01-31T13:19:55.417-0300] {processor.py:186} INFO - Started process (PID=15877) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:55.418-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:19:55.419-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:55.419-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:55.752-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:19:55.763-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:55.763-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:19:55.774-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:19:55.773-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:19:55.786-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.374 seconds
+[2025-01-31T13:20:26.680-0300] {processor.py:186} INFO - Started process (PID=15956) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:26.681-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:20:26.682-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:26.682-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:26.978-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:26.988-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:26.988-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:20:26.997-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:26.997-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:20:27.018-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.343 seconds
+[2025-01-31T13:20:57.550-0300] {processor.py:186} INFO - Started process (PID=16019) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:57.561-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:20:57.565-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:57.564-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:57.852-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:20:57.873-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:57.872-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:20:57.882-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:20:57.882-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:20:57.894-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.349 seconds
+[2025-01-31T13:21:28.549-0300] {processor.py:186} INFO - Started process (PID=16110) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:28.560-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:21:28.563-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:28.563-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:28.846-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:28.857-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:28.856-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:21:28.866-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:28.866-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:21:28.887-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.343 seconds
+[2025-01-31T13:21:59.307-0300] {processor.py:186} INFO - Started process (PID=16175) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:59.308-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:21:59.310-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:59.310-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:59.593-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:21:59.603-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:59.603-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:21:59.612-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:21:59.612-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:21:59.634-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.333 seconds
+[2025-01-31T13:22:29.802-0300] {processor.py:186} INFO - Started process (PID=16331) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:22:29.802-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:22:29.804-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:22:29.803-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:22:30.150-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:22:30.161-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:22:30.161-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:22:30.172-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:22:30.172-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:22:30.185-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.389 seconds
+[2025-01-31T13:23:00.279-0300] {processor.py:186} INFO - Started process (PID=16400) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:00.291-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:23:00.295-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:00.294-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:00.590-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:00.600-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:00.600-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:23:00.609-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:00.609-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:23:00.631-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.356 seconds
+[2025-01-31T13:23:30.796-0300] {processor.py:186} INFO - Started process (PID=16508) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:30.797-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:23:30.799-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:30.798-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:31.082-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:23:31.092-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:31.092-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:23:31.101-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:23:31.101-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:23:31.113-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.321 seconds
+[2025-01-31T13:24:01.236-0300] {processor.py:186} INFO - Started process (PID=16574) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:01.237-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:24:01.239-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:01.238-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:01.522-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:01.544-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:01.544-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:24:01.553-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:01.553-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:24:01.565-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.335 seconds
+[2025-01-31T13:24:31.727-0300] {processor.py:186} INFO - Started process (PID=16653) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:31.738-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:24:31.741-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:31.741-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:32.027-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:24:32.037-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:32.037-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:24:32.046-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:24:32.046-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:24:32.068-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.347 seconds
+[2025-01-31T13:25:02.231-0300] {processor.py:186} INFO - Started process (PID=16718) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:02.232-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:25:02.233-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:02.233-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:02.516-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:02.526-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:02.526-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:25:02.536-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:02.536-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:25:02.557-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.331 seconds
+[2025-01-31T13:25:32.736-0300] {processor.py:186} INFO - Started process (PID=16802) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:32.747-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:25:32.751-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:32.750-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:33.042-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:25:33.052-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:33.052-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:25:33.061-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:25:33.061-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:25:33.072-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.341 seconds
+[2025-01-31T13:26:03.242-0300] {processor.py:186} INFO - Started process (PID=16869) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:03.254-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:26:03.257-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:03.257-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:03.543-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:03.553-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:03.553-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:26:03.563-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:03.563-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:26:03.574-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.336 seconds
+[2025-01-31T13:26:33.730-0300] {processor.py:186} INFO - Started process (PID=16949) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:33.735-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:26:33.738-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:33.738-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:34.027-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:26:34.037-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:34.037-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:26:34.046-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:26:34.046-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:26:34.057-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.332 seconds
+[2025-01-31T13:27:04.217-0300] {processor.py:186} INFO - Started process (PID=17013) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:04.255-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:27:04.259-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:04.258-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:04.552-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:04.562-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:04.561-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:27:04.570-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:04.570-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:27:04.594-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.382 seconds
+[2025-01-31T13:27:34.709-0300] {processor.py:186} INFO - Started process (PID=17092) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:34.720-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:27:34.724-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:34.723-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:35.012-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:27:35.024-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:35.024-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:27:35.033-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:27:35.033-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:27:35.044-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.340 seconds
+[2025-01-31T13:28:05.285-0300] {processor.py:186} INFO - Started process (PID=17160) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:05.296-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:28:05.300-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:05.299-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:05.584-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:05.594-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:05.594-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:28:05.603-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:05.602-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:28:05.625-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.345 seconds
+[2025-01-31T13:28:35.757-0300] {processor.py:186} INFO - Started process (PID=17270) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:35.768-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:28:35.769-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:35.769-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:36.053-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:28:36.063-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:36.062-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:28:36.072-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:28:36.072-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:28:36.094-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.342 seconds
+[2025-01-31T13:29:06.298-0300] {processor.py:186} INFO - Started process (PID=17339) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:06.309-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:29:06.312-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:06.312-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:06.596-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:06.606-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:06.606-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:29:06.615-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:06.614-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:29:06.637-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.345 seconds
+[2025-01-31T13:29:36.815-0300] {processor.py:186} INFO - Started process (PID=17416) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:36.821-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:29:36.824-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:36.823-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:37.105-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:29:37.115-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:37.115-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:29:37.124-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:29:37.124-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:29:37.146-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.335 seconds
+[2025-01-31T13:30:07.357-0300] {processor.py:186} INFO - Started process (PID=17490) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:07.368-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:30:07.372-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:07.372-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:07.673-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:07.684-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:07.684-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:30:07.694-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:07.694-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:30:07.716-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.363 seconds
+[2025-01-31T13:30:37.910-0300] {processor.py:186} INFO - Started process (PID=17577) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:37.911-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:30:37.912-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:37.912-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:38.195-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:30:38.216-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:38.216-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:30:38.227-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:30:38.227-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:30:38.241-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.335 seconds
+[2025-01-31T13:31:08.441-0300] {processor.py:186} INFO - Started process (PID=17639) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:08.446-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:31:08.450-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:08.450-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:08.731-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:08.741-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:08.741-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:31:08.750-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:08.750-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:31:08.771-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.335 seconds
+[2025-01-31T13:31:38.939-0300] {processor.py:186} INFO - Started process (PID=17719) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:38.950-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:31:38.954-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:38.953-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:39.165-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:31:39.176-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:39.176-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:31:39.187-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:31:39.187-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:31:39.209-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.274 seconds
+[2025-01-31T13:32:09.366-0300] {processor.py:186} INFO - Started process (PID=17784) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:09.377-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:32:09.380-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:09.379-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:09.583-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:09.595-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:09.595-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:32:09.605-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:09.605-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:32:09.627-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.265 seconds
+[2025-01-31T13:32:39.823-0300] {processor.py:186} INFO - Started process (PID=17861) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:39.824-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:32:39.825-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:39.825-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:40.025-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:32:40.037-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:40.037-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:32:40.047-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:32:40.047-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:32:40.070-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.251 seconds
+[2025-01-31T13:33:10.261-0300] {processor.py:186} INFO - Started process (PID=17930) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:10.299-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:33:10.303-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:10.302-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:10.511-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:10.523-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:10.522-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:33:10.533-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:10.533-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:33:10.557-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.300 seconds
+[2025-01-31T13:33:41.220-0300] {processor.py:186} INFO - Started process (PID=18054) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:41.220-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:33:41.222-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:41.221-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:41.429-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:33:41.442-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:41.441-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:33:41.453-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:33:41.453-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:33:41.465-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.250 seconds
+[2025-01-31T13:34:11.648-0300] {processor.py:186} INFO - Started process (PID=18175) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:11.649-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:34:11.650-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:11.650-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:11.851-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:11.873-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:11.873-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:34:11.885-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:11.885-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:34:11.898-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.254 seconds
+[2025-01-31T13:34:42.057-0300] {processor.py:186} INFO - Started process (PID=18252) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:42.067-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:34:42.071-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:42.070-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:42.277-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:34:42.290-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:42.290-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:34:42.300-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:34:42.300-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:34:42.312-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.260 seconds
+[2025-01-31T13:35:12.497-0300] {processor.py:186} INFO - Started process (PID=18319) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:12.508-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:35:12.511-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:12.510-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:12.713-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:12.729-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:12.729-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:35:12.741-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:12.741-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:35:12.753-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.261 seconds
+[2025-01-31T13:35:42.927-0300] {processor.py:186} INFO - Started process (PID=18393) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:42.928-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:35:42.929-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:42.929-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:43.179-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:35:43.194-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:43.194-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:35:43.208-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:35:43.208-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:35:43.223-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.303 seconds
+[2025-01-31T13:36:14.188-0300] {processor.py:186} INFO - Started process (PID=18457) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:14.199-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:36:14.203-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:14.202-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:14.425-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:14.438-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:14.438-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:36:14.448-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:14.448-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:36:14.460-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.276 seconds
+[2025-01-31T13:36:44.951-0300] {processor.py:186} INFO - Started process (PID=18532) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:44.956-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:36:44.959-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:44.958-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:45.166-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:36:45.178-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:45.178-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:36:45.189-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:36:45.189-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:36:45.202-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.256 seconds
+[2025-01-31T13:37:15.706-0300] {processor.py:186} INFO - Started process (PID=18597) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:15.707-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:37:15.709-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:15.709-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:15.911-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:15.924-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:15.924-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:37:15.934-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:15.934-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:37:15.946-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.244 seconds
+[2025-01-31T13:37:46.453-0300] {processor.py:186} INFO - Started process (PID=18672) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:46.464-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:37:46.467-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:46.467-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:46.674-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:37:46.686-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:46.686-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:37:46.697-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:37:46.697-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:37:46.719-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.271 seconds
+[2025-01-31T13:38:17.228-0300] {processor.py:186} INFO - Started process (PID=18740) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:17.232-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:38:17.235-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:17.234-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:17.437-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:17.461-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:17.460-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:38:17.471-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:17.471-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:38:17.484-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.261 seconds
+[2025-01-31T13:38:48.089-0300] {processor.py:186} INFO - Started process (PID=18862) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:48.090-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:38:48.092-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:48.092-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:48.311-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:38:48.324-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:48.324-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:38:48.336-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:38:48.336-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:38:48.350-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.266 seconds
+[2025-01-31T13:39:18.873-0300] {processor.py:186} INFO - Started process (PID=18939) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:18.874-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:39:18.875-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:18.875-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:19.079-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:19.103-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:19.102-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:39:19.114-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:19.114-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:39:19.127-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.258 seconds
+[2025-01-31T13:39:49.626-0300] {processor.py:186} INFO - Started process (PID=19018) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:49.627-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:39:49.628-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:49.628-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:49.845-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:39:49.857-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:49.857-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:39:49.868-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:39:49.867-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:39:49.890-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.269 seconds
+[2025-01-31T13:40:20.442-0300] {processor.py:186} INFO - Started process (PID=19093) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:20.443-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:40:20.444-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:20.444-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:20.646-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:20.658-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:20.658-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:40:20.670-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:20.670-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:40:20.683-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.246 seconds
+[2025-01-31T13:40:51.209-0300] {processor.py:186} INFO - Started process (PID=19165) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:51.220-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:40:51.224-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:51.223-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:51.427-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:40:51.439-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:51.438-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:40:51.448-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:40:51.448-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:40:51.470-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.266 seconds
+[2025-01-31T13:41:22.005-0300] {processor.py:186} INFO - Started process (PID=19256) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:22.005-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:41:22.007-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:22.006-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:22.210-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:22.232-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:22.232-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:41:22.243-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:22.243-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:41:22.257-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.257 seconds
+[2025-01-31T13:41:52.758-0300] {processor.py:186} INFO - Started process (PID=19329) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:52.764-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:41:52.766-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:52.765-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:52.967-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:41:52.980-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:52.980-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:41:52.991-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:41:52.991-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:41:53.003-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.249 seconds
+[2025-01-31T13:42:23.501-0300] {processor.py:186} INFO - Started process (PID=19404) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:23.512-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:42:23.516-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:23.515-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:23.722-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:23.744-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:23.744-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:42:23.754-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:23.754-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:42:23.768-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.271 seconds
+[2025-01-31T13:42:54.238-0300] {processor.py:186} INFO - Started process (PID=19470) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:54.239-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:42:54.241-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:54.240-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:54.442-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:42:54.454-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:54.453-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:42:54.465-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:42:54.465-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:42:54.487-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.254 seconds
+[2025-01-31T13:43:25.111-0300] {processor.py:186} INFO - Started process (PID=19580) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:25.122-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:43:25.125-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:25.125-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:25.338-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:25.350-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:25.350-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:43:25.360-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:25.360-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:43:25.374-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.267 seconds
+[2025-01-31T13:43:55.640-0300] {processor.py:186} INFO - Started process (PID=19649) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:55.651-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:43:55.655-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:55.654-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:55.877-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:43:55.899-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:55.899-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:43:55.985-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:43:55.985-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:43:55.996-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.361 seconds
+[2025-01-31T13:44:26.606-0300] {processor.py:186} INFO - Started process (PID=19725) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:26.617-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:44:26.620-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:26.620-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:26.824-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:26.836-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:26.836-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:44:26.846-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:26.846-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:44:26.868-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.266 seconds
+[2025-01-31T13:44:57.032-0300] {processor.py:186} INFO - Started process (PID=19787) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:57.033-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:44:57.034-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:57.034-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:57.241-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:44:57.252-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:57.252-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:44:57.262-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:44:57.262-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:44:57.353-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.325 seconds
+[2025-01-31T13:45:27.820-0300] {processor.py:186} INFO - Started process (PID=20383) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:27.827-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:45:27.829-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:27.829-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:28.033-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:28.055-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:28.055-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:45:28.139-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:28.139-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:45:28.150-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.334 seconds
+[2025-01-31T13:45:58.367-0300] {processor.py:186} INFO - Started process (PID=20449) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:58.378-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:45:58.381-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:58.380-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:58.586-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:45:58.598-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:58.598-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:45:58.608-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:45:58.608-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:45:58.630-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.268 seconds
+[2025-01-31T13:46:28.725-0300] {processor.py:186} INFO - Started process (PID=20527) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:28.726-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:46:28.727-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:28.727-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:28.931-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:28.943-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:28.942-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:46:28.953-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:28.953-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:46:29.049-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.328 seconds
+[2025-01-31T13:46:59.296-0300] {processor.py:186} INFO - Started process (PID=20591) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:59.297-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:46:59.298-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:59.298-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:59.499-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:46:59.585-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:59.584-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:46:59.593-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:46:59.593-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:46:59.615-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.323 seconds
+[2025-01-31T13:47:30.075-0300] {processor.py:186} INFO - Started process (PID=20671) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:47:30.080-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:47:30.084-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:47:30.083-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:47:30.288-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:47:30.312-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:47:30.312-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:47:30.322-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:47:30.322-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:47:30.410-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.340 seconds
+[2025-01-31T13:48:00.802-0300] {processor.py:186} INFO - Started process (PID=20733) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:00.803-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:48:00.805-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:00.804-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:01.008-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:01.020-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:01.020-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:48:01.105-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:01.105-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:48:01.117-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.322 seconds
+[2025-01-31T13:48:31.538-0300] {processor.py:186} INFO - Started process (PID=20845) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:31.539-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:48:31.541-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:31.541-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:31.741-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:48:31.763-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:31.763-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:48:31.774-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:48:31.773-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:48:31.785-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.251 seconds
+[2025-01-31T13:49:02.176-0300] {processor.py:186} INFO - Started process (PID=20923) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:02.178-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:49:02.180-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:02.180-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:02.381-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:02.394-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:02.394-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:49:02.476-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:02.476-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:49:02.498-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.328 seconds
+[2025-01-31T13:49:32.930-0300] {processor.py:186} INFO - Started process (PID=21021) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:32.931-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:49:32.934-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:32.933-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:33.278-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:49:33.376-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:33.375-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:49:33.390-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:49:33.390-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:49:33.405-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.480 seconds
+[2025-01-31T13:50:03.645-0300] {processor.py:186} INFO - Started process (PID=21093) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:03.646-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:50:03.648-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:03.648-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:03.954-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:03.964-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:03.964-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:50:03.974-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:03.974-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:50:03.987-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.350 seconds
+[2025-01-31T13:50:34.333-0300] {processor.py:186} INFO - Started process (PID=21166) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:34.334-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:50:34.335-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:34.335-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:34.537-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:50:34.634-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:34.634-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:50:34.646-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:50:34.646-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:50:34.659-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.330 seconds
+[2025-01-31T13:51:05.059-0300] {processor.py:186} INFO - Started process (PID=21233) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:05.070-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:51:05.073-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:05.072-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:05.351-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:05.362-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:05.361-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:51:05.371-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:05.371-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:51:05.383-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.329 seconds
+[2025-01-31T13:51:35.792-0300] {processor.py:186} INFO - Started process (PID=21313) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:35.793-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:51:35.795-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:35.795-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:36.109-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:51:36.120-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:36.120-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:51:36.132-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:51:36.131-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:51:36.143-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.359 seconds
+[2025-01-31T13:52:06.546-0300] {processor.py:186} INFO - Started process (PID=21410) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:06.547-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:52:06.548-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:06.548-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:06.925-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:06.947-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:06.946-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:52:06.964-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:06.964-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:52:06.979-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.437 seconds
+[2025-01-31T13:52:37.253-0300] {processor.py:186} INFO - Started process (PID=21488) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:37.254-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:52:37.256-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:37.255-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:37.556-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:52:37.567-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:37.567-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:52:37.578-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:52:37.578-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:52:37.590-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.345 seconds
+[2025-01-31T13:53:07.975-0300] {processor.py:186} INFO - Started process (PID=21551) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:07.975-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:53:07.978-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:07.977-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:08.305-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:08.317-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:08.317-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:53:08.328-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:08.327-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:53:08.339-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.372 seconds
+[2025-01-31T13:53:38.697-0300] {processor.py:186} INFO - Started process (PID=21662) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:38.698-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:53:38.701-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:38.700-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:39.007-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:53:39.028-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:39.028-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:53:39.038-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:53:39.038-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:53:39.051-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.360 seconds
+[2025-01-31T13:54:09.399-0300] {processor.py:186} INFO - Started process (PID=21723) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:09.399-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:54:09.401-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:09.401-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:09.700-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:09.711-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:09.711-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:54:09.723-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:09.723-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:54:09.735-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.340 seconds
+[2025-01-31T13:54:40.117-0300] {processor.py:186} INFO - Started process (PID=21803) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:40.118-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:54:40.119-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:40.119-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:40.447-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:54:40.457-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:40.457-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:54:40.467-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:54:40.467-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:54:40.479-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.368 seconds
+[2025-01-31T13:55:10.767-0300] {processor.py:186} INFO - Started process (PID=21870) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:10.778-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:55:10.781-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:10.780-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:11.066-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:11.088-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:11.088-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:55:11.098-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:11.098-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:55:11.109-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.347 seconds
+[2025-01-31T13:55:41.498-0300] {processor.py:186} INFO - Started process (PID=21944) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:41.509-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:55:41.512-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:41.512-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:41.805-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:55:41.816-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:41.816-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:55:41.825-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:55:41.824-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:55:41.847-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.354 seconds
+[2025-01-31T13:56:12.218-0300] {processor.py:186} INFO - Started process (PID=22010) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:12.219-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:56:12.221-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:12.220-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:12.528-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:12.544-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:12.544-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:56:12.557-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:12.557-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:56:12.573-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.359 seconds
+[2025-01-31T13:56:42.912-0300] {processor.py:186} INFO - Started process (PID=22085) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:42.923-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:56:42.926-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:42.926-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:43.207-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:56:43.229-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:43.229-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:56:43.239-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:56:43.239-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:56:43.251-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.343 seconds
+[2025-01-31T13:57:13.630-0300] {processor.py:186} INFO - Started process (PID=22152) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:13.631-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:57:13.632-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:13.632-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:13.905-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:13.915-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:13.915-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:57:13.924-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:13.924-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:57:13.946-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.320 seconds
+[2025-01-31T13:57:44.351-0300] {processor.py:186} INFO - Started process (PID=22231) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:44.362-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:57:44.365-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:44.365-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:44.650-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:57:44.668-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:44.668-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:57:44.681-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:57:44.680-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:57:44.693-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.347 seconds
+[2025-01-31T13:58:15.091-0300] {processor.py:186} INFO - Started process (PID=22308) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:15.091-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:58:15.093-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:15.093-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:15.436-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:15.451-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:15.451-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:58:15.464-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:15.464-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:58:15.477-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.390 seconds
+[2025-01-31T13:58:45.789-0300] {processor.py:186} INFO - Started process (PID=22434) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:45.790-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:58:45.791-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:45.791-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:46.150-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:58:46.173-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:46.173-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:58:46.186-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:58:46.186-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:58:46.200-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.415 seconds
+[2025-01-31T13:59:16.522-0300] {processor.py:186} INFO - Started process (PID=22498) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:16.523-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:59:16.524-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:16.524-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:16.810-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:16.821-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:16.821-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:59:16.832-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:16.832-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:59:16.844-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.328 seconds
+[2025-01-31T13:59:47.258-0300] {processor.py:186} INFO - Started process (PID=22576) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:47.269-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T13:59:47.272-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:47.271-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:47.622-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T13:59:47.641-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:47.641-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T13:59:47.657-0300] {logging_mixin.py:190} INFO - [2025-01-31T13:59:47.657-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T13:59:47.671-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.417 seconds
+[2025-01-31T14:00:17.983-0300] {processor.py:186} INFO - Started process (PID=22645) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:17.983-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:00:17.985-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:17.985-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:18.279-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:18.292-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:18.292-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:00:18.301-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:18.301-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:00:18.313-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.336 seconds
+[2025-01-31T14:00:48.725-0300] {processor.py:186} INFO - Started process (PID=22720) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:48.731-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:00:48.732-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:48.732-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:49.029-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:00:49.048-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:49.048-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:00:49.058-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:00:49.058-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:00:49.071-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.350 seconds
+[2025-01-31T14:01:19.515-0300] {processor.py:186} INFO - Started process (PID=22784) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:19.516-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:01:19.517-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:19.517-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:19.790-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:19.801-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:19.801-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:01:19.811-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:19.811-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:01:19.823-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.312 seconds
+[2025-01-31T14:01:50.237-0300] {processor.py:186} INFO - Started process (PID=22865) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:50.238-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:01:50.240-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:50.240-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:50.560-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:01:50.576-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:50.576-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:01:50.592-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:01:50.592-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:01:50.606-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.375 seconds
+[2025-01-31T14:02:20.830-0300] {processor.py:186} INFO - Started process (PID=22941) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:20.831-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:02:20.832-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:20.832-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:21.135-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:21.152-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:21.152-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:02:21.165-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:21.164-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:02:21.177-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.354 seconds
+[2025-01-31T14:02:51.566-0300] {processor.py:186} INFO - Started process (PID=23026) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:51.567-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:02:51.568-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:51.567-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:51.878-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:02:51.892-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:51.892-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:02:51.904-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:02:51.903-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:02:51.915-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.354 seconds
+[2025-01-31T14:03:22.376-0300] {processor.py:186} INFO - Started process (PID=23122) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:22.378-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:03:22.380-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:22.379-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:22.765-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:22.782-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:22.782-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:03:22.795-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:22.795-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:03:22.810-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.440 seconds
+[2025-01-31T14:03:53.073-0300] {processor.py:186} INFO - Started process (PID=23204) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:53.074-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:03:53.076-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:53.076-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:53.443-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:03:53.461-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:53.460-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:03:53.472-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:03:53.472-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:03:53.485-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.418 seconds
+[2025-01-31T14:04:23.759-0300] {processor.py:186} INFO - Started process (PID=23276) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:23.760-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:04:23.762-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:23.761-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:24.141-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:24.160-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:24.160-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:04:24.174-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:24.173-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:04:24.189-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.436 seconds
+[2025-01-31T14:04:54.467-0300] {processor.py:186} INFO - Started process (PID=23346) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:54.478-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:04:54.481-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:54.481-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:54.843-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:04:54.859-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:54.859-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:04:54.873-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:04:54.873-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:04:54.887-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.425 seconds
+[2025-01-31T14:05:25.353-0300] {processor.py:186} INFO - Started process (PID=23423) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:25.354-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:05:25.355-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:25.355-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:25.661-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:25.671-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:25.671-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:05:25.680-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:25.680-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:05:25.691-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.343 seconds
+[2025-01-31T14:05:56.163-0300] {processor.py:186} INFO - Started process (PID=23490) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:56.164-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:05:56.165-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:56.165-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:56.554-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:05:56.571-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:56.571-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:05:56.586-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:05:56.586-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:05:56.600-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.442 seconds
+[2025-01-31T14:06:26.973-0300] {processor.py:186} INFO - Started process (PID=23567) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:26.974-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:06:26.975-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:26.975-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:27.336-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:27.353-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:27.353-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:06:27.366-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:27.366-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:06:27.382-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.414 seconds
+[2025-01-31T14:06:57.670-0300] {processor.py:186} INFO - Started process (PID=23634) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:57.671-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:06:57.673-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:57.673-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:58.052-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:06:58.065-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:58.065-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:06:58.076-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:06:58.076-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:06:58.089-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.425 seconds
+[2025-01-31T14:07:28.344-0300] {processor.py:186} INFO - Started process (PID=23709) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:28.345-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:07:28.346-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:28.346-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:28.717-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:28.733-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:28.733-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:07:28.743-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:28.743-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:07:28.754-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.416 seconds
+[2025-01-31T14:07:59.136-0300] {processor.py:186} INFO - Started process (PID=23777) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:59.137-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:07:59.139-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:59.139-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:59.460-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:07:59.472-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:59.472-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:07:59.483-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:07:59.483-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:07:59.496-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.367 seconds
+[2025-01-31T14:08:30.037-0300] {processor.py:186} INFO - Started process (PID=23905) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:08:30.038-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:08:30.040-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:08:30.039-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:08:30.573-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:08:30.593-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:08:30.593-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:08:30.609-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:08:30.608-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:08:30.623-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.592 seconds
+[2025-01-31T14:09:01.066-0300] {processor.py:186} INFO - Started process (PID=23973) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:01.067-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:09:01.069-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:01.068-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:01.558-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:01.578-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:01.578-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:09:01.593-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:01.593-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:09:01.608-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.547 seconds
+[2025-01-31T14:09:31.833-0300] {processor.py:186} INFO - Started process (PID=24048) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:31.835-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:09:31.837-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:31.837-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:32.195-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:09:32.210-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:32.210-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:09:32.224-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:09:32.224-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:09:32.238-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.413 seconds
+[2025-01-31T14:10:02.481-0300] {processor.py:186} INFO - Started process (PID=24119) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:02.482-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:10:02.483-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:02.483-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:02.853-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:02.870-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:02.870-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:10:02.882-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:02.882-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:10:02.896-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.420 seconds
+[2025-01-31T14:10:33.164-0300] {processor.py:186} INFO - Started process (PID=24194) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:33.164-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:10:33.166-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:33.165-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:33.512-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:10:33.531-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:33.531-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:10:33.541-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:10:33.541-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:10:33.553-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.394 seconds
+[2025-01-31T14:11:03.716-0300] {processor.py:186} INFO - Started process (PID=24262) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:03.717-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:11:03.720-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:03.718-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:04.128-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:04.144-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:04.144-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:11:04.159-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:04.159-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:11:04.172-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.464 seconds
+[2025-01-31T14:11:34.375-0300] {processor.py:186} INFO - Started process (PID=24335) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:34.376-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:11:34.377-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:34.377-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:34.700-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:11:34.718-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:34.717-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:11:34.730-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:11:34.730-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:11:34.743-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.373 seconds
+[2025-01-31T14:12:05.036-0300] {processor.py:186} INFO - Started process (PID=24424) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:05.037-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:12:05.039-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:05.038-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:05.421-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:05.436-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:05.436-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:12:05.449-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:05.449-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:12:05.462-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.431 seconds
+[2025-01-31T14:12:36.238-0300] {processor.py:186} INFO - Started process (PID=24504) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:36.238-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:12:36.240-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:36.239-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:36.564-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:12:36.581-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:36.581-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:12:36.594-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:12:36.594-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:12:36.608-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.375 seconds
+[2025-01-31T14:13:07.204-0300] {processor.py:186} INFO - Started process (PID=24573) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:07.205-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:13:07.207-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:07.206-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:07.625-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:07.645-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:07.645-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:13:07.658-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:07.658-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:13:07.673-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.474 seconds
+[2025-01-31T14:13:38.415-0300] {processor.py:186} INFO - Started process (PID=24680) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:38.417-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:13:38.418-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:38.418-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:38.904-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:13:38.924-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:38.924-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:13:38.936-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:13:38.936-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:13:38.950-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.541 seconds
+[2025-01-31T14:14:09.172-0300] {processor.py:186} INFO - Started process (PID=24749) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:09.172-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:14:09.174-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:09.174-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:09.587-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:09.605-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:09.605-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:14:09.618-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:09.618-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:14:09.632-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.467 seconds
+[2025-01-31T14:14:40.277-0300] {processor.py:186} INFO - Started process (PID=24822) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:40.278-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:14:40.281-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:40.280-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:40.624-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:14:40.636-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:40.636-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:14:40.646-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:14:40.646-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:14:40.657-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.388 seconds
+[2025-01-31T14:15:11.331-0300] {processor.py:186} INFO - Started process (PID=24919) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:11.331-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:15:11.334-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:11.332-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:11.847-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:11.865-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:11.865-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:15:11.884-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:11.883-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:15:11.899-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.575 seconds
+[2025-01-31T14:15:42.692-0300] {processor.py:186} INFO - Started process (PID=24992) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:42.693-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:15:42.694-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:42.694-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:43.219-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:15:43.239-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:43.239-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:15:43.256-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:15:43.256-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:15:43.271-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.584 seconds
+[2025-01-31T14:16:13.945-0300] {processor.py:186} INFO - Started process (PID=25060) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:13.946-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:16:13.947-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:13.947-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:14.415-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:14.442-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:14.442-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:16:14.460-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:14.460-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:16:14.477-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.536 seconds
+[2025-01-31T14:16:44.965-0300] {processor.py:186} INFO - Started process (PID=25153) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:44.966-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:16:44.969-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:44.967-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:45.357-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:16:45.382-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:45.381-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:16:45.400-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:16:45.400-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:16:45.419-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.459 seconds
+[2025-01-31T14:17:16.129-0300] {processor.py:186} INFO - Started process (PID=25229) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:16.130-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:17:16.132-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:16.132-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:16.543-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:16.568-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:16.568-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:17:16.585-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:16.585-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:17:16.602-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.480 seconds
+[2025-01-31T14:17:47.355-0300] {processor.py:186} INFO - Started process (PID=25307) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:47.356-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:17:47.358-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:47.357-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:47.772-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:17:47.795-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:47.795-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:17:47.813-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:17:47.813-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:17:47.828-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.488 seconds
+[2025-01-31T14:18:18.471-0300] {processor.py:186} INFO - Started process (PID=25376) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:18.474-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:18:18.476-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:18.475-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:18.877-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:18.901-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:18.901-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:18:18.918-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:18.918-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:18:18.934-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 0.478 seconds
+[2025-01-31T14:18:49.290-0300] {processor.py:186} INFO - Started process (PID=25622) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:49.293-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:18:49.296-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:49.295-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:50.185-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:18:50.255-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:50.250-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:18:50.288-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:18:50.287-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:18:50.321-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 1.048 seconds
+[2025-01-31T14:19:21.058-0300] {processor.py:186} INFO - Started process (PID=25723) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:21.061-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:19:21.063-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:21.063-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:22.146-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:22.216-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:22.213-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:19:22.248-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:22.247-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:19:22.277-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 1.240 seconds
+[2025-01-31T14:19:52.740-0300] {processor.py:186} INFO - Started process (PID=25933) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:52.741-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:19:52.744-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:52.743-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:53.864-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:19:53.952-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:53.948-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:19:54.005-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:19:54.005-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:19:54.070-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 1.347 seconds
+[2025-01-31T14:20:24.460-0300] {processor.py:186} INFO - Started process (PID=26138) to work on /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:20:24.462-0300] {processor.py:914} INFO - Processing file /home/lucas/airflow/dags/DAGPipeline.py for tasks to queue
+[2025-01-31T14:20:24.465-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:20:24.465-0300] {dagbag.py:588} INFO - Filling up the DagBag from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:20:25.592-0300] {processor.py:925} INFO - DAG(s) 'PipelineARGUS' retrieved from /home/lucas/airflow/dags/DAGPipeline.py
+[2025-01-31T14:20:25.663-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:20:25.660-0300] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-01-31T14:20:25.694-0300] {logging_mixin.py:190} INFO - [2025-01-31T14:20:25.694-0300] {dag.py:4180} INFO - Setting next_dagrun for PipelineARGUS to 2025-01-29 00:00:00+00:00, run_after=2025-01-29 00:05:00+00:00
+[2025-01-31T14:20:25.736-0300] {processor.py:208} INFO - Processing /home/lucas/airflow/dags/DAGPipeline.py took 1.290 seconds

@@ -1,0 +1,21 @@
+[2025-01-24T10:45:55.967-0300] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-01-24T10:45:55.972-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ReadAgend.starting scheduled__2020-03-18T22:05:00+00:00 [queued]>
+[2025-01-24T10:45:55.976-0300] {taskinstance.py:2613} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ReadAgend.starting scheduled__2020-03-18T22:05:00+00:00 [queued]>
+[2025-01-24T10:45:55.976-0300] {taskinstance.py:2866} INFO - Starting attempt 1 of 2
+[2025-01-24T10:45:55.985-0300] {taskinstance.py:2889} INFO - Executing <Task(BashOperator): starting> on 2020-03-18 22:05:00+00:00
+[2025-01-24T10:45:55.989-0300] {standard_task_runner.py:72} INFO - Started process 43159 to run task
+[2025-01-24T10:45:55.991-0300] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'ReadAgend', 'starting', 'scheduled__2020-03-18T22:05:00+00:00', '--job-id', '1391', '--raw', '--subdir', 'DAGS_FOLDER/DAGFiltroPacientesAgendamento.py', '--cfg-path', '/tmp/tmpmabizj_0']
+[2025-01-24T10:45:55.991-0300] {standard_task_runner.py:105} INFO - Job 1391: Subtask starting
+[2025-01-24T10:45:56.011-0300] {task_command.py:467} INFO - Running <TaskInstance: ReadAgend.starting scheduled__2020-03-18T22:05:00+00:00 [running]> on host lucas-Aspire-A514-54
+[2025-01-24T10:45:56.048-0300] {taskinstance.py:3132} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='lucas' AIRFLOW_CTX_DAG_ID='ReadAgend' AIRFLOW_CTX_TASK_ID='starting' AIRFLOW_CTX_EXECUTION_DATE='2020-03-18T22:05:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2020-03-18T22:05:00+00:00'
+[2025-01-24T10:45:56.048-0300] {taskinstance.py:731} INFO - ::endgroup::
+[2025-01-24T10:45:56.056-0300] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2025-01-24T10:45:56.057-0300] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'echo "I am reading the CSV now....."']
+[2025-01-24T10:45:56.063-0300] {subprocess.py:99} INFO - Output:
+[2025-01-24T10:45:56.064-0300] {subprocess.py:106} INFO - I am reading the CSV now.....
+[2025-01-24T10:45:56.064-0300] {subprocess.py:110} INFO - Command exited with return code 0
+[2025-01-24T10:45:56.075-0300] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-01-24T10:45:56.075-0300] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=ReadAgend, task_id=starting, run_id=scheduled__2020-03-18T22:05:00+00:00, execution_date=20200318T220500, start_date=20250124T134555, end_date=20250124T134556
+[2025-01-24T10:45:56.123-0300] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-01-24T10:45:56.141-0300] {taskinstance.py:3895} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-01-24T10:45:56.144-0300] {local_task_job_runner.py:245} INFO - ::endgroup::
