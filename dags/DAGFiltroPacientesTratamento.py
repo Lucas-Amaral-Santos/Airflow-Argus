@@ -1,12 +1,13 @@
 import datetime as dt
-from datetime import timedelta
+from datetime import timedelta, datetime, date
 from airflow import DAG
 from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
 import pandas as pd
+import numpy as np
 
 def read_filter_PACTRAT():
-    df=pd.read_csv('/home/lucas/airflow/input/b1.csv', sep=";", encoding="utf8")
+    df=pd.read_excel('/home/afr/airflow/input/pactrat.xlsx', skiprows=1, skipfooter=1)
     # Exclui linhas cuja coluna ÁREA DE ATENDIMENTO em branco
     df = df.dropna(subset=['Área atend'])
 
@@ -41,9 +42,13 @@ def read_filter_PACTRAT():
     #  limpando Convênio
     df['Convênio'] = df['Convênio'].str.replace('SIM (oficina-cer)', 'SIM (oficina - cer)')
 
+    df['Saída'] = df['Saída'].fillna(date.today().strftime('%Y-%m-%d'))
+    df['Periodo'] = df['Saída'].sub(df['Entrada']).dt.days
+    df.loc[df['Saída'].astype(str) == date.today().strftime('%Y-%m-%d'), 'Saída'] = np.nan
+
     # Reinicia o index
     df.index=df.reset_index().index
-    df.to_csv('PAC_TRAT_FILTER.csv', sep=";")
+    df.to_csv('/home/afr/airflow/PAC_TRAT_FILTER.csv', sep=";")
 
 
 default_args = {
