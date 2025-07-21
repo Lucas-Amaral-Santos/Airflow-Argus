@@ -153,6 +153,11 @@ def read_filter_Agendamento():
 
     df['Profissional'] = df['Profissional'].apply(lambda x: regex.sub(pattern, '', x))
 
+    func_set = pd.read_excel('/home/afr/airflow/input/funcionarios_setor.xlsx')
+    df['Profissional'] = df['Profissional'].str.strip()
+    func_set['Nome do Funcionário'] = func_set['Nome do Funcionário'].str.strip()
+
+    df = df.merge(func_set, left_on='Profissional', right_on='Nome do Funcionário', how='left')
 
     df.to_csv('/home/afr/airflow/PAC_TRAT_AGEND.csv', sep=";")
 
